@@ -16,6 +16,6 @@ Offerings
 2. 30-day v1 AI GRC system design and delivery: by day 30 you have named owners, decision rights, controls, an evidence register, operating cadence and a corrective and preventive action (CAPA) workflow. Governance for AI, not an AI application.
 3. GRC next™: on inquiry.
 
-Here, I will share the AI workflows (the “Spellbook”), Tiny Servants and frameworks I use for this work, so they are reusable and inspectable by others who care about the same problems.
+Here, I will share the AI workflows (the “Spellbooks”), Tiny Servants and frameworks I use for this work, so they are reusable and inspectable by others who care about the same problems.
 
 **Thanks for checking this out.**  You can always reach me at sonupaik@gmail.com.
