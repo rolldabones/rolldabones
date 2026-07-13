@@ -18,4 +18,6 @@ I am an attorney, AI auditor and governance architect with 25+ years designing r
 
 Here, I will share the AI workflows (the “Spellbooks”), Tiny Servants and frameworks I use for this work, so they are reusable and inspectable by others who care about the same problems.
 
+The full map of how these repositories connect is in [ECOSYSTEM.md](ECOSYSTEM.md).
+
 **Thanks for checking this out.** You can always reach me at <sonupaik@gmail.com>.
