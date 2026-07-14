@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.0.0 · 13 July 2026**
+**The rolldabones governance ecosystem · v1.1.0 · 14 July 2026**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -11,6 +11,7 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 | Repository | Role in the set |
 |---|---|
 | [grc](https://github.com/rolldabones/grc) | The foundation: the GRC next framework on the OCEG Capability Model spine, with the Governance Test and the five primitives the tools below implement |
+| [grc-workbook](https://github.com/rolldabones/grc-workbook) | The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II |
 | [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: a 12-step governed AI methodology from individual task discipline to institutional program governance |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine |
 
@@ -20,6 +21,8 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 |---|---|
 | [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Pre-deployment and lifecycle impact assessment aligned to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and ISO/IEC 42005; the Informed Intent gate in tool form |
 | [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Continuous risk-informed decision making under uncertainty; auditable work product |
+| [RedCap-00](https://github.com/rolldabones/RedCap-00) | Operational-optionality self-check: can the organization execute five critical moves within 72 hours under disruption; evidence-capped, conservative scoring |
+| [RedCap-01](https://github.com/rolldabones/RedCap-01) | Objective-to-Risk Alignment Check: an evidence-oriented diagnostic testing whether ERM improves the decisions that determine objective achievement (informed by COSO's 2026 *From Guidance to Action*) |
 | [master-prompt-for-in-house-legal-and-compliance](https://github.com/rolldabones/master-prompt-for-in-house-legal-and-compliance) | The general-purpose in-house legal and compliance workbench |
 
 ## Layer 3: Audience-specific guidance
@@ -38,7 +41,7 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 
 ## How the layers connect
 
-Doctrine (Layer 1) defines what governed means. The assessment tools (Layer 2) operationalize it at the decision point: the AI Impact Assessment Tool's kill-switch requirement is a GRC next Switch, its decommission plan an Exit, its data flow narrative a Pipe, its thresholds Tolerances, its system inventory a Service. The guidance repositories (Layer 3) carry the same doctrines to boards, clients and practitioners. The field studies (Layer 4) test the doctrines against live systems and feed corrections back into the tools.
+Doctrine (Layer 1) defines what governed means. The assessment tools (Layer 2) operationalize it at the decision point: the AI Impact Assessment Tool's kill-switch requirement is a GRC next Switch, its decommission plan an Exit, its data flow narrative a Pipe, its thresholds Tolerances, its system inventory a Service. RedCap-01's decision boundaries are Tolerances made usable and its trigger-to-action links are Switches; RedCap-00 tests whether the Exits and Switches actually fire under stress. The guidance repositories (Layer 3) carry the same doctrines to boards, clients and practitioners. The field studies (Layer 4) test the doctrines against live systems and feed corrections back into the tools.
 
 ## Maintenance protocol
 
@@ -49,6 +52,7 @@ Doctrine (Layer 1) defines what governed means. The assessment tools (Layer 2) o
 
 ## Change log
 
+- v1.1.0 (2026-07-14): added grc-workbook (Layer 1), RedCap-00 and RedCap-01 (Layer 2); thirteen repositories classified; layer-connection paragraph extended to the RedCap tools.
 - v1.0.0 (2026-07-13): initial map, ten repositories classified across four layers.
 
 Final Liability rests with the Human.
