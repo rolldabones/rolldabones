@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.2.0 · 14 July 2026**
+**The rolldabones governance ecosystem · v1.3.0 · 14 July 2026**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -13,6 +13,7 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 | [grc](https://github.com/rolldabones/grc) | The foundation: the GRC next framework on the OCEG Capability Model spine, with the Governance Test and the five primitives the tools below implement |
 | [grc-workbook](https://github.com/rolldabones/grc-workbook) | The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II |
 | [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: a 12-step governed AI methodology from individual task discipline to institutional program governance |
+| [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, delivered as the Origami Workflow Guide custom GPT |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine |
 
 ## Layer 2: Assessment and decision tools
@@ -42,7 +43,7 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 
 ## How the layers connect
 
-Doctrine (Layer 1) defines what governed means. The assessment tools (Layer 2) operationalize it at the decision point: the AI Impact Assessment Tool's kill-switch requirement is a GRC next Switch, its decommission plan an Exit, its data flow narrative a Pipe, its thresholds Tolerances, its system inventory a Service. RedCap-01's decision boundaries are Tolerances made usable and its trigger-to-action links are Switches; RedCap-00 tests whether the Exits and Switches actually fire under stress. The guidance repositories (Layer 3) carry the same doctrines to boards, clients and practitioners; the AI Generalist workshop is the widest on-ramp, teaching the minimum control set to working professionals in a day. The field studies (Layer 4) test the doctrines against live systems and feed corrections back into the tools.
+Doctrine (Layer 1) defines what governed means. The Origami Method turns that definition into workflow-design discipline: its creases are Tolerances on inputs and outputs, its gates are Switches and its fold log is controlled change under audit. The assessment tools (Layer 2) operationalize it at the decision point: the AI Impact Assessment Tool's kill-switch requirement is a GRC next Switch, its decommission plan an Exit, its data flow narrative a Pipe, its thresholds Tolerances, its system inventory a Service. RedCap-01's decision boundaries are Tolerances made usable and its trigger-to-action links are Switches; RedCap-00 tests whether the Exits and Switches actually fire under stress. The guidance repositories (Layer 3) carry the same doctrines to boards, clients and practitioners; the AI Generalist workshop is the widest on-ramp, teaching the minimum control set to working professionals in a day. The field studies (Layer 4) test the doctrines against live systems and feed corrections back into the tools.
 
 ## Maintenance protocol
 
@@ -53,6 +54,7 @@ Doctrine (Layer 1) defines what governed means. The assessment tools (Layer 2) o
 
 ## Change log
 
+- v1.3.0 (2026-07-14): added origami-method (Layer 1); fifteen repositories classified; layer-connection paragraph extended to the workflow-design discipline.
 - v1.2.0 (2026-07-14): added the-ai-generalist (Layer 3); fourteen repositories classified; layer-connection paragraph extended to the workshop on-ramp.
 - v1.1.0 (2026-07-14): added grc-workbook (Layer 1), RedCap-00 and RedCap-01 (Layer 2); thirteen repositories classified; layer-connection paragraph extended to the RedCap tools.
 - v1.0.0 (2026-07-13): initial map, ten repositories classified across four layers.
