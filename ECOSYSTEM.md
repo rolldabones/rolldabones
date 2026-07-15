@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.4.0 · 15 July 2026**
+**The rolldabones governance ecosystem · v1.5.0 · 15 July 2026**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -13,6 +13,7 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 | [grc](https://github.com/rolldabones/grc) | The foundation: the GRC next framework on the OCEG Capability Model spine, with the Governance Test and the five primitives the tools below implement |
 | [grc-workbook](https://github.com/rolldabones/grc-workbook) | The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II |
 | [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: a 12-step governed AI methodology from individual task discipline to institutional program governance |
+| [definition-of-done](https://github.com/rolldabones/definition-of-done) | The acceptance doctrine: how done is defined before work begins and confirmed before reliance, the depth work inside the Kitchen's Gates 1, 6 and 7 |
 | [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, delivered as the Origami Workflow Guide custom GPT |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine |
 
@@ -27,6 +28,8 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 | [master-prompt-for-in-house-legal-and-compliance](https://github.com/rolldabones/master-prompt-for-in-house-legal-and-compliance) | The general-purpose in-house legal and compliance workbench |
 | [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | The artifact factory: production mirror of the AI GRC Spellbook Copilot custom GPT, which drafts the 30 canonical AI GRC artifacts with owners, evidence and systems of record |
 | [AI-GRC-Master-List-of-Questions](https://github.com/rolldabones/AI-GRC-Master-List-of-Questions) | The minimum input set (17 sections, mostly yes/no) that, once answered, lets the Spellbook Copilot draft all 30 artifacts; pairs with AI-GRC-Copilot |
+| [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot) | The optionality assessor: evidence-led scoring of Global Optionality across critical services (Pipes, Switches, Exits), with the v2 methodology, advisory tools suite, schemas and tests |
+| [Contract-Mechanism-Review-Assistant](https://github.com/rolldabones/Contract-Mechanism-Review-Assistant) | The contract specialist: a mode-gated review assistant treating contracts as risk-transfer mechanisms and executable business plans, with evidence anchors and an uncertainty register |
 
 ## Layer 3: Audience-specific guidance
 
@@ -45,7 +48,7 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 
 ## How the layers connect
 
-Doctrine (Layer 1) defines what governed means. The Origami Method turns that definition into workflow-design discipline: its creases are Tolerances on inputs and outputs, its gates are Switches and its fold log is controlled change under audit. The assessment tools (Layer 2) operationalize it at the decision point: the AI Impact Assessment Tool's kill-switch requirement is a GRC next Switch, its decommission plan an Exit, its data flow narrative a Pipe, its thresholds Tolerances, its system inventory a Service. RedCap-01's decision boundaries are Tolerances made usable and its trigger-to-action links are Switches; RedCap-00 tests whether the Exits and Switches actually fire under stress. The AI GRC Copilot pair turns the doctrine into paperwork that proves itself: the Master List of Questions captures the organization's facts once and the Spellbook Copilot converts them into the 30 artifacts whose owners, evidence and systems of record the Governance Test demands. The guidance repositories (Layer 3) carry the same doctrines to boards, clients and practitioners; the AI Generalist workshop is the widest on-ramp, teaching the minimum control set to working professionals in a day. The field studies (Layer 4) test the doctrines against live systems and feed corrections back into the tools.
+Doctrine (Layer 1) defines what governed means. The Origami Method turns that definition into workflow-design discipline: its creases are Tolerances on inputs and outputs, its gates are Switches and its fold log is controlled change under audit. The assessment tools (Layer 2) operationalize it at the decision point: the AI Impact Assessment Tool's kill-switch requirement is a GRC next Switch, its decommission plan an Exit, its data flow narrative a Pipe, its thresholds Tolerances, its system inventory a Service. RedCap-01's decision boundaries are Tolerances made usable and its trigger-to-action links are Switches; RedCap-00 tests whether the Exits and Switches actually fire under stress. The AI GRC Copilot pair turns the doctrine into paperwork that proves itself: the Master List of Questions captures the organization's facts once and the Spellbook Copilot converts them into the 30 artifacts whose owners, evidence and systems of record the Governance Test demands. GRCnext-Copilot is the primitives run as an engine, scoring whether Pipes, Switches and Exits would actually execute within tolerance, and the Contract Mechanism Review Assistant reads the agreements those Exits depend on. The Definition of Done doctrine closes the loop from Layer 1: no tool's output is accepted until a named Human confirms it against tests defined before the work began. The guidance repositories (Layer 3) carry the same doctrines to boards, clients and practitioners; the AI Generalist workshop is the widest on-ramp, teaching the minimum control set to working professionals in a day. The field studies (Layer 4) test the doctrines against live systems and feed corrections back into the tools.
 
 ## Maintenance protocol
 
@@ -56,6 +59,7 @@ Doctrine (Layer 1) defines what governed means. The Origami Method turns that de
 
 ## Change log
 
+- v1.5.0 (2026-07-15): added definition-of-done (Layer 1), GRCnext-Copilot and Contract-Mechanism-Review-Assistant (Layer 2); twenty repositories classified; layer-connection paragraph extended to the optionality engine, the contract specialist and the acceptance loop.
 - v1.4.0 (2026-07-15): added AI-GRC-Copilot and AI-GRC-Master-List-of-Questions as a pair (Layer 2); seventeen repositories classified; layer-connection paragraph extended to the artifact factory.
 - v1.3.0 (2026-07-14): added origami-method (Layer 1); fifteen repositories classified; layer-connection paragraph extended to the workflow-design discipline.
 - v1.2.0 (2026-07-14): added the-ai-generalist (Layer 3); fourteen repositories classified; layer-connection paragraph extended to the workshop on-ramp.
