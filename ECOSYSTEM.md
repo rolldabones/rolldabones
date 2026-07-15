@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.5.1 · 15 July 2026**
+**The rolldabones governance ecosystem · v1.6.0 · 15 July 2026**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -37,7 +37,6 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 |---|---|
 | [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards) | Board mandate, best practices and jurisdiction guides (EU, US, Korea, Vietnam, Australia); where the assessment tools send their "verify with counsel" flags |
 | [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing governance engagements, with client-facing publications |
-| [claude-cowork-legal-onboarding](https://github.com/rolldabones/claude-cowork-legal-onboarding) | Onboarding and guardrails for legal workflows on an agentic platform |
 | [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | One-day corporate workshop: LLM foundations, a repeatable prompting workflow, a tool selection map and the AI GRC minimum control set, with the three doctrines applied to real corporate use cases |
 
 ## Layer 4: Field studies
@@ -59,6 +58,7 @@ Doctrine (Layer 1) defines what governed means. The Origami Method turns that de
 
 ## Change log
 
+- v1.6.0 (2026-07-15): removed claude-cowork-legal-onboarding from Layer 3 (repository retired and deleted by the maintainer, per maintenance protocol item 2); nineteen repositories classified.
 - v1.5.1 (2026-07-15): description corrections against live content. The grc line no longer attributes the Governance Test (which lives in grc-workbook) or the five primitives (which live in GRCnext-Copilot) to the grc repository; the AI-Governance-Academy line now covers its client-facing publications alongside the prompt pack. No layer changes; twenty repositories classified.
 - v1.5.0 (2026-07-15): added definition-of-done (Layer 1), GRCnext-Copilot and Contract-Mechanism-Review-Assistant (Layer 2); twenty repositories classified; layer-connection paragraph extended to the optionality engine, the contract specialist and the acceptance loop.
 - v1.4.0 (2026-07-15): added AI-GRC-Copilot and AI-GRC-Master-List-of-Questions as a pair (Layer 2); seventeen repositories classified; layer-connection paragraph extended to the artifact factory.
