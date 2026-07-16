@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.0 · 15 July 2026**
+**The rolldabones governance ecosystem · v1.7.1 · 16 July 2026**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -16,7 +16,7 @@ Everything in this account serves one practice: enterprise AI governance, risk m
 | [definition-of-done](https://github.com/rolldabones/definition-of-done) | The acceptance doctrine: how done is defined before work begins and confirmed before reliance, the depth work inside the Kitchen's Gates 1, 6 and 7 |
 | [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, delivered as the Origami Workflow Guide custom GPT |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine |
-| [computational-drafting](https://github.com/rolldabones/computational-drafting) | The drafting layer: the design of specifications that translate human and institutional intent into behavior across legal, organizational and technical interpreters, with the eight-element anatomy, the interpreter map, the hostile-case checklist, two templates and a worked example |
+| [computational-drafting](https://github.com/rolldabones/computational-drafting) | The drafting layer: the design of specifications that translate human and institutional intent into behavior across legal, organizational and technical interpreters, with the eight-element anatomy, the interpreter map, the hostile-case checklist, three templates and a worked example |
 
 ## Layer 2: Assessment and decision tools
 
@@ -59,6 +59,7 @@ Doctrine (Layer 1) defines what governed means. The Origami Method turns that de
 
 ## Change log
 
+- v1.7.1 (2026-07-16): description correction: the computational-drafting line reflects the third template (the operator card) added in that repository's v1.1.0. No layer changes; twenty repositories classified.
 - v1.7.0 (2026-07-15): added computational-drafting (Layer 1); twenty repositories classified; layer-connection paragraph extended to the specification layer.
 - v1.6.0 (2026-07-15): removed claude-cowork-legal-onboarding from Layer 3 (repository retired and deleted by the maintainer, per maintenance protocol item 2); nineteen repositories classified.
 - v1.5.1 (2026-07-15): description corrections against live content. The grc line no longer attributes the Governance Test (which lives in grc-workbook) or the five primitives (which live in GRCnext-Copilot) to the grc repository; the AI-Governance-Academy line now covers its client-facing publications alongside the prompt pack. No layer changes; twenty repositories classified.
