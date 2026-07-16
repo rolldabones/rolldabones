@@ -2,9 +2,10 @@
 
 Bridging algorithmic audit, legal structuring and execution, I design enterprise and AI governance, risk management & compliance (GRC) frameworks and applications.
 
-My work is grounded in three frameworks:
+My work is grounded in three doctrines and one operating framework:
 
 - **Slow AI** (governed AI, explainable and auditable, built for evidence, not assurances)
+- **Informed Intent** (no deployment without explicit pre-authorization specifying purpose, scope, limits and a named owner)
 - **Final Liability rests with the Human** (every outcome attaches to a named owner with decision rights, oversight and power to intervene)
 - **GRC next™** (72-hour optionality that keeps the business lawful and operable when rules collide and constraints hit fast)
 
@@ -16,8 +17,8 @@ I am an attorney, AI auditor and governance architect with 25+ years designing r
 2. 30-day v1 AI GRC system design and delivery: by day 30 you have named owners, decision rights, controls, an evidence register, operating cadence and a corrective and preventive action (CAPA) workflow. Governance for AI, not an AI application.
 3. GRC next™: on inquiry.
 
-Here, I will share the AI workflows (the “Spellbooks”), Tiny Servants and frameworks I use for this work, so they are reusable and inspectable by others who care about the same problems.
+Here, I will share the AI workflows (the "Spellbooks"), Tiny Servants and frameworks I use for this work, so they are reusable and inspectable by others who care about the same problems.
 
-The full map of how these repositories connect is in [ECOSYSTEM.md](ECOSYSTEM.md).
+The full map of how these repositories connect is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md).
 
-**Thanks for checking this out.** You can always reach me at <sonupaik@gmail.com>.
+**Thanks for checking this out.** You can always reach me at sonupaik@gmail.com.
