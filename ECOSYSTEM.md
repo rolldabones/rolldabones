@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.2 · 30 July 2026**
+**The rolldabones governance ecosystem · v1.7.3 · 30 July 2026**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -52,10 +52,11 @@ Doctrine (Layer 1) defines what governed means. The Origami Method turns that de
 
 ## Published expositions
 
-Two essays name things that live in this account. They are origin documents rather than repositories, and the repositories state their subjects fresh rather than excerpting them.
+Three essays name or carry things that live in this account. They are origin documents rather than repositories, and the repositories state their subjects fresh rather than excerpting them.
 
 - [*The Dungeon Is a Legal System*](https://redcaps.substack.com/p/the-dungeon-is-a-legal-system) (July 2026) named **computational drafting**, the discipline canonized in computational-drafting.
 - [*Made to Hold*](https://redcaps.substack.com/p/made-to-hold) (28 July 2026) is the first public exposition of **GRCnext™** and the first public use of **Tiny Servants**.
+- [*The Turtle and the Phoenix*](https://redcaps.substack.com/p/the-turtle-and-the-phoenix) (30 July 2026) is the general-audience telling of the teaching fable whose facilitation kit is published in AI-Governance-Academy. The essay carries the story alone; the kit carries the second telling, the handle map that converts its lines into instruments and the annex for those who build.
 
 ## Maintenance protocol
 
@@ -68,6 +69,7 @@ Two essays name things that live in this account. They are origin documents rath
 
 ## Change log
 
+- v1.7.3 (2026-07-30): Published expositions extended to three, adding *The Turtle and the Phoenix* (30 July 2026), the essay whose facilitation kit is the second client-facing publication in AI-Governance-Academy. No layer changes; twenty repositories classified.
 - v1.7.2 (2026-07-30): trademark rendering corrected to the canonical closed-up form GRCnext™ in the opening practice paragraph and in the How the layers connect paragraph. The retired spaced form "GRC next" is no longer used anywhere in this map. Published expositions section added, recording the two essays that named computational drafting and GRCnext™. Maintenance protocol items 5 and 6 added, documenting the two parallel version series in this repository and the LICENSE filename position. No layer changes; twenty repositories classified.
 - v1.7.1 (2026-07-16): description correction: the computational-drafting line reflects the third template (the operator card) added in that repository's v1.1.0. No layer changes; twenty repositories classified.
 - v1.7.0 (2026-07-15): added computational-drafting (Layer 1); twenty repositories classified; layer-connection paragraph extended to the specification layer.
