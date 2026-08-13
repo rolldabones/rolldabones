@@ -1,10 +1,12 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.6 · 8 August 2026**
+**The rolldabones governance ecosystem · v1.7.7 · 13 August 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
 Everything in this account serves one practice: enterprise AI governance, risk management and compliance that is evidence-led and auditable. Three doctrines run through all of it: **Slow AI** (governed, explainable, auditable, evidence over assurances), **Informed Intent** (no deployment without explicit pre-authorization specifying purpose, scope, limits and a named owner) and **Final Liability rests with the Human** (every outcome attaches to a named human with decision rights, oversight and the power to intervene). The **GRCnext™** framework supplies the operating primitives: Services, Tolerances, Pipes, Switches, Exits.
+
+The paragraph above is the summary. The normative statement of the three doctrines lives in [DOCTRINE.md](DOCTRINE.md), beside this file: one definition each, the allocation lifecycle, the drafting rule reserving liability language for where liability genuinely lands, and the statutory analogues. Repositories cite DOCTRINE.md rather than restating the doctrines.
 
 ## Layer 1: Doctrine and method
 
@@ -68,10 +70,13 @@ Six essays name or carry things that live in this account. They are origin docum
 3. Each repository carries the standard "Part of the ecosystem" section (see the snippet in any current repository README) listing this map plus up to five nearest neighbors.
 4. Repositories not yet listed here are pending classification. Add them to a layer on their next substantive revision.
 5. Two version series run in the profile repository and are deliberately separate. This file carries its own version in the masthead above; the repository carries its own tag. A change to this file bumps the file version, and the release that ships it bumps the repository tag. The two numbers will not match and are not intended to.
-6. LICENSE.md is the filename convention for new repositories. Five repositories created in the 14 July 2026 cohort use LICENSE, which was a logged decision at the time and is left alone. Both filenames are valid to GitHub; neither is renamed retroactively.
+6. **Doctrine delta rule.** Slow AI, Informed Intent and Final Liability are used across the suite exactly as stated in [DOCTRINE.md](DOCTRINE.md). Repositories add instruments, not doctrine. Restating a doctrine at a different altitude, board, enterprise or task, is permitted; varying the rule is not. Promoted to this protocol from definition-of-done README design principle 5, which stated it for that repository alone.
+7. **Versioning exception, logged.** Lockstep versioning across all files in a repository remains the account convention. computational-drafting is a sanctioned exception: its computational-drafting header rule is confined to that repository by decision of 9 August 2026 and does not generalise. No other exception is in force.
+8. LICENSE.md is the filename convention for new repositories. Five repositories created in the 14 July 2026 cohort use LICENSE, which was a logged decision at the time and is left alone. Both filenames are valid to GitHub; neither is renamed retroactively.
 
 ## Change log
 
+- v1.7.7 (2026-08-13, KST): DOCTRINE.md added beside this file as the normative doctrine statement, with a pointer from the opening practice paragraph; the map keeps its one-paragraph summary. Maintenance protocol gains the doctrine delta rule, promoted from definition-of-done README design principle 5, and a line recording the computational-drafting versioning exception as sanctioned and non-generalising. No layer change; twenty content repositories plus the profile.
 - v1.7.6 (2026-08-08): Published expositions extended to six, adding *Common Notions* (8 August 2026), the Euclid essay supplying the historical argument for the specification form and the proof-carrying record. The computational-drafting line reflects the proof-carrying analysis record and fourth template (the claim-evidence matrix) added in that repository's v1.2.0. No layer changes; twenty repositories classified.
 - v1.7.5 (2026-08-06): Published expositions extended to five, adding *Prior Art* (5 August 2026), the essay locating computational drafting's independent convergence with pragmatic epistemology and stating the philosophy-to-assurance stack. The entry carries the pointer to the discipline's instruments in computational-drafting. No layer changes; twenty repositories classified.
 - v1.7.4 (2026-08-02): Published expositions extended to four, adding *The Governance of Naming* (2 August 2026), the essay that supplies the agency and attribution argument beneath the three doctrines. No layer changes; twenty repositories classified.
