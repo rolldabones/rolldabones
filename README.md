@@ -9,7 +9,7 @@ My work is grounded in three doctrines and one operating framework:
 - **Final Liability rests with the Human** (every outcome attaches to a named owner with decision rights, oversight and power to intervene)
 - **GRCnext™** (72-hour optionality that keeps the business lawful and operable when rules collide and constraints hit fast)
 
-I am an attorney, AI auditor and governance architect with 25+ years designing risk systems for cross-border institutions in regulated, high-stakes sectors across Asia, Europe and the US. I have served as an executive and General Counsel for three listed companies, and now lead legal operations at BABL.ai, advancing algorithmic audit and AI certification aligned to the EU AI Act and ISO/IEC 42001.
+I am an attorney, AI auditor and governance architect with 25+ years designing risk systems for cross-border institutions in regulated, high-stakes sectors across Asia, Europe and the US. I have served as an executive and General Counsel for three listed companies, and most recently led legal operations at BABL.ai, advancing algorithmic audit and AI certification aligned to the EU AI Act and ISO/IEC 42001.
 
 ### Offerings
 
