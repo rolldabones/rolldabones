@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.10 · 24 August 2026 (KST)**
+**The rolldabones governance ecosystem · v1.7.11 · 27 August 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -14,7 +14,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 |---|---|
 | [grc](https://github.com/rolldabones/grc) | The foundation: the working method on the OCEG GRC Capability Model 3.5 spine (Principled Performance, the operating cycle, the 20 elements), with four build guides, a 21-prompt pack, six operating templates and FOUR-FRAMES.md, the four-frames geopolitical sense-making entry used alongside PESTLE and STEEPLE |
 | [grc-workbook](https://github.com/rolldabones/grc-workbook) | The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II |
-| [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: a 12-step governed AI methodology from individual task discipline to institutional program governance, with the Enterprise AI Architecture Primer as its companion architecture reference and Karpathy's Kitchen as the technical derivation of its principles |
+| [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: a 12-step governed AI methodology from individual task discipline to institutional program governance, with the Enterprise AI Architecture Primer as its companion architecture reference, Karpathy's Kitchen as the technical derivation of its principles and Newton's Kitchen as their conceptual derivation, three laws of consequential motion |
 | [definition-of-done](https://github.com/rolldabones/definition-of-done) | The acceptance doctrine: how done is defined before work begins and confirmed before reliance, the depth work inside the Kitchen's Gates 1, 6 and 7 |
 | [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, delivered as the Origami Workflow Guide custom GPT |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine |
@@ -77,6 +77,7 @@ Seven essays name or carry things that live in this account. They are origin doc
 
 ## Change log
 
+- v1.7.11 (2026-08-27, KST): description update: the slow-ai-kitchen line reflects Newton's Kitchen, the conceptual derivation module added in that repository's v2.4.0. No layer change; twenty content repositories plus the profile.
 - v1.7.10 (2026-08-24, KST): description update: the slow-ai-kitchen line reflects Karpathy's Kitchen, the technical derivation module added in that repository's v2.3. No layer change; twenty content repositories plus the profile.
 - v1.7.9 (2026-08-23, KST): the grc line reflects FOUR-FRAMES.md, the four-frames geopolitical sense-making method entry added in that repository's v2.2.0, used alongside PESTLE and STEEPLE. Published expositions extended to seven, adding *The Gods of the New Great Game* (23 August 2026), the essay carrying the method's public exposition. No layer change; twenty content repositories plus the profile.
 - v1.7.8 (2026-08-20, KST): description update: the slow-ai-kitchen line reflects the Enterprise AI Architecture Primer added in that repository's v2.2. No layer change; twenty content repositories plus the profile.
