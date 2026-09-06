@@ -1,6 +1,6 @@
 # DOCTRINE.md
 
-**The rolldabones doctrine canon · v1.0.0 · 13 August 2026 (KST)**
+**The rolldabones doctrine canon · v1.1.0 · 6 September 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository), beside [ECOSYSTEM.md](ECOSYSTEM.md). This file is the single normative statement of the three doctrines. [ECOSYSTEM.md](ECOSYSTEM.md) keeps its one-paragraph summary and points here. Every other repository uses these definitions exactly as stated and adds instruments, not doctrine.**
 
@@ -18,11 +18,17 @@ The doctrine's operative consequence is that the right to operate follows from b
 
 ## 2. Informed Intent
 
-**No AI system, and above all no AI agent, acts on the organization's behalf without prior authorization that specifies what it may do, on whose authority, within what boundaries and with what exit.**
+**No AI system, and above all no AI agent, acts on the organization's behalf without prior authorization that specifies what it may do, on whose authority, within what boundaries and with what exit, given by a human who is in a position to give it.**
 
-Four elements, all required: purpose, authority, boundaries, exit. An authorization missing its exit is not an authorization; it is a hope. Authorization precedes action, and it is specific to the action, not to the technology in general. A general permission to "use AI" authorizes nothing in particular and therefore authorizes nothing.
+The doctrine has two limbs. Both are required, and they answer different questions.
 
-The agentic case is the hard case and the reason the doctrine is stated at this strength. A system that plans across steps and calls tools will encounter states its authorizer never contemplated. The boundary and the exit are what make that survivable.
+**The instrument: what the authorization must contain.** Four elements, all required: purpose, authority, boundaries, exit. An authorization missing its exit is not an authorization; it is a hope. Authorization precedes action, and it is specific to the action, not to the technology in general. A general permission to "use AI" authorizes nothing in particular and therefore authorizes nothing.
+
+**The authorizer: whether the signature counts.** Five conditions on the human who grants it, all required: Knowledge, Evidence, Authority, Time and Permission. Knowledge is understanding of the specific action authorized, not general familiarity with the technology. Evidence is the basis for the authorization in the record: the system description, the testing record, the residual risk, the dissent and the alternatives considered. Authority is the institutional power to commit the organization, documented, current and not delegated below the level of comprehension. Time is the realistic opportunity to consider the action before signing. Permission is the ability to decline without retaliation. An instrument carrying all four elements, signed by a human lacking any of the five conditions, is paperwork. Its opposite has a name, Inferred Intent: the purpose the authorizer never stated, supplied afterwards by the system or its vendor.
+
+The agentic case is the hard case and the reason the doctrine is stated at this strength. A system that plans across steps and calls tools will encounter states its authorizer never contemplated. The boundary and the exit are what make that survivable, and the five conditions are what make the human who set them answerable for having set them.
+
+**Altitude restatements in force.** ai-governance-for-boards states the instrument as five elements, drawing scope of action and human checkpoints out of boundaries. grc-workbook Module 10 states the authorizer's five conditions as a gate and tests them at the level of the action. The book (Chapter 9) states the authorizer's conditions as three components and traces the limb to informed consent, distinguishing the two by beneficiary. Each reduces to this rule. None varies it.
 
 ## 3. Final Liability rests with the Human
 
@@ -78,16 +84,26 @@ A failure in any one collapses the others. An unauthorized system has no named o
 
 ---
 
-## 5. Use of this file
+## 5. The disciplines beneath the doctrines
+
+Two operating disciplines run through every working session under the three doctrines and add no rule to them. **Return to Source** keeps the Human connected to the world the work is about: a conclusion is traced to its evidence, the evidence to its source and the source to observable reality, before reliance. **Cognitive Provenance** keeps the Human connected to their own reasoning: which conclusions are theirs, which arrived from the machine and by what path. Their canonical statement is in slow-ai-kitchen/coetzees-kitchen.md. Derivation modules in the same repository (Karpathy's Kitchen, technical; Newton's Kitchen, conceptual; Coetzee's Kitchen, epistemic) derive the doctrines in their own registers and reduce to them.
+
+## 6. Register note
+
+Where the subject is delegated authority, this account uses the principal-agent register: the system is the agent, the human is the principal. "Human principal", "named human principal" and "accountable principal" in that register mean the named human owner of section 3 and nothing more. The register is conformant; the sweep treats it as such.
+
+## 7. Use of this file
 
 1. This file is the only normative statement of the three doctrines in this account. Repositories link here rather than redefining.
 2. Repositories add **instruments**, not doctrine. A repository may introduce a template, a checklist, a scoring method or a worked example that operationalizes a doctrine. It may not introduce a variant definition.
 3. Altitude restatement is permitted; rule variation is not. Board, enterprise and task registers of the same doctrine must reduce to the same rule.
 4. Changes to a doctrine statement are versioned here and logged below, and the change is announced in [ECOSYSTEM.md](ECOSYSTEM.md)'s change log in the same commit series.
 5. Where a jurisdiction's law states something close to a doctrine, cite it as an analogue with a pinpoint, an as-at date and a status tag. Do not present the doctrine as law.
+6. Summary lines elsewhere in this account compress the doctrines; where a compression lists elements or conditions, it lists this file's or points here.
 
 ## Change log
 
+- v1.1.0 (2026-09-06, KST): Informed Intent restated with its two limbs, the instrument (four elements) and the authorizer (five conditions), reconciling the canon with grc-workbook Module 10, the book's Chapter 9 and ai-governance-for-boards; disciplines section added placing Return to Source and Cognitive Provenance beneath the doctrines; register note added on principal-agent vocabulary. No doctrine added, none renamed, no rule varied.
 - v1.0.0 (2026-08-13, KST): first issue. Consolidates the three doctrine statements previously restated across repositories; adds the allocation lifecycle, the drafting rule and the Colorado and Vietnam statutory analogues.
 
 ---

@@ -1,10 +1,10 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.13 · 6 September 2026 (KST)**
+**The rolldabones governance ecosystem · v1.7.14 · 6 September 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
-Everything in this account serves one practice: enterprise AI governance, risk management and compliance that is evidence-led and auditable. Three doctrines run through all of it: **Slow AI** (governed, explainable, auditable, evidence over assurances), **Informed Intent** (no deployment without explicit pre-authorization specifying purpose, scope, limits and a named owner) and **Final Liability rests with the Human** (every outcome attaches to a named human with decision rights, oversight and the power to intervene). The **GRCnext™** framework supplies the operating primitives: Services, Tolerances, Pipes, Switches, Exits.
+Everything in this account serves one practice: enterprise AI governance, risk management and compliance that is evidence-led and auditable. Three doctrines run through all of it: **Slow AI** (governed, explainable, auditable, evidence over assurances), **Informed Intent** (no action without prior authorization stating purpose, authority, boundaries and exit, given by a human with the knowledge, evidence, authority, time and permission to give it) and **Final Liability rests with the Human** (every outcome attaches to a named human with decision rights, oversight and the power to intervene). The **GRCnext™** framework supplies the operating primitives: Services, Tolerances, Pipes, Switches, Exits.
 
 The paragraph above is the summary. The normative statement of the three doctrines lives in [DOCTRINE.md](DOCTRINE.md), beside this file: one definition each, the allocation lifecycle, the drafting rule reserving liability language for where liability genuinely lands, and the statutory analogues. Repositories cite DOCTRINE.md rather than restating the doctrines.
 
@@ -80,6 +80,7 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Change log
 
+- v1.7.14 (2026-09-06, KST): DOCTRINE.md v1.1.0 announced per protocol item 6: Informed Intent restated with two limbs, disciplines placed, register note added. Summary paragraph's Informed Intent compression aligned to the canon. No layer change; twenty content repositories plus the profile.
 - v1.7.13 (2026-09-06, KST): Published expositions extended to eight, adding *The Handover* (28 August 2026), the user's guide to the account; section closed with the essay run. README gains the DOCTRINE.md and *The Handover* pointers and the 13 August 2026 role formulation. No layer change; twenty content repositories plus the profile.
 - v1.7.12 (2026-08-30, KST): description update: the slow-ai-kitchen line reflects Coetzee's Kitchen, the epistemic derivation module added in that repository's v2.5.0. No layer change; twenty content repositories plus the profile.
 - v1.7.11 (2026-08-27, KST): description update: the slow-ai-kitchen line reflects Newton's Kitchen, the conceptual derivation module added in that repository's v2.4.0. No layer change; twenty content repositories plus the profile.

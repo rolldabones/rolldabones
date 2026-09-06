@@ -5,7 +5,7 @@ Bridging algorithmic audit, legal structuring and execution, I design enterprise
 My work is grounded in three doctrines and one operating framework:
 
 - **Slow AI** (governed AI, explainable and auditable, built for evidence, not assurances)
-- **Informed Intent** (no deployment without explicit pre-authorization specifying purpose, scope, limits and a named owner)
+- **Informed Intent** (no action without prior authorization stating purpose, authority, boundaries and exit, given by a human with the knowledge, evidence, authority, time and permission to give it)
 - **Final Liability rests with the Human** (every outcome attaches to a named owner with decision rights, oversight and power to intervene)
 - **GRCnext™** (72-hour optionality that keeps the business lawful and operable when rules collide and constraints hit fast)
 
