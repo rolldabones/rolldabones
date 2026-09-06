@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.14 · 6 September 2026 (KST)**
+**The rolldabones governance ecosystem · v1.7.15 · 6 September 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -80,6 +80,7 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Change log
 
+- v1.7.15 (2026-09-06, KST): DOCTRINE.md v1.1.1 announced per protocol item 6: the register note gains the capitalization rule settling when *Human* is a defined term and when it is a common noun. Citation infrastructure added across the account in the same session: CITATION.cff in all 21 public repositories, a uniform How to Cite block, and the doctrine citation line in the eight repositories that restate a doctrine. No layer change; twenty content repositories plus the profile.
 - v1.7.14 (2026-09-06, KST): DOCTRINE.md v1.1.0 announced per protocol item 6: Informed Intent restated with two limbs, disciplines placed, register note added. Summary paragraph's Informed Intent compression aligned to the canon. No layer change; twenty content repositories plus the profile.
 - v1.7.13 (2026-09-06, KST): Published expositions extended to eight, adding *The Handover* (28 August 2026), the user's guide to the account; section closed with the essay run. README gains the DOCTRINE.md and *The Handover* pointers and the 13 August 2026 role formulation. No layer change; twenty content repositories plus the profile.
 - v1.7.12 (2026-08-30, KST): description update: the slow-ai-kitchen line reflects Coetzee's Kitchen, the epistemic derivation module added in that repository's v2.5.0. No layer change; twenty content repositories plus the profile.

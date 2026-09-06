@@ -25,4 +25,10 @@ The full map of how these repositories connect is in [ECOSYSTEM.md](https://gith
 
 A user's guide to this account, *The Handover*, is at https://redcaps.substack.com/p/the-handover.
 
+## How to Cite
+
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v1.7.15. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+
+A machine-readable citation is in [CITATION.cff](CITATION.cff).
+
 **Thanks for checking this out.** You can always reach me at sonupaik@gmail.com.

@@ -1,6 +1,6 @@
 # DOCTRINE.md
 
-**The rolldabones doctrine canon · v1.1.0 · 6 September 2026 (KST)**
+**The rolldabones doctrine canon · v1.1.1 · 6 September 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository), beside [ECOSYSTEM.md](ECOSYSTEM.md). This file is the single normative statement of the three doctrines. [ECOSYSTEM.md](ECOSYSTEM.md) keeps its one-paragraph summary and points here. Every other repository uses these definitions exactly as stated and adds instruments, not doctrine.**
 
@@ -90,7 +90,9 @@ Two operating disciplines run through every working session under the three doct
 
 ## 6. Register note
 
-Where the subject is delegated authority, this account uses the principal-agent register: the system is the agent, the human is the principal. "Human principal", "named human principal" and "accountable principal" in that register mean the named human owner of section 3 and nothing more. The register is conformant; the sweep treats it as such.
+Where the subject is delegated authority, this account uses the principal-agent register: the system is the agent, the human is the principal. "Human principal", "named human principal", "accountable human principal" and "accountable principal" in that register mean the named human owner of section 3 and nothing more, and the list is illustrative rather than exhaustive. The register is conformant; the sweep treats it as such.
+
+**Capitalization.** *the Human* is a defined term in this account and denotes the named human owner of section 3, the bearer of Final Liability; it is capitalized in that sense, in section 5 where the disciplines address that person, and in the closing line, while everywhere else, including the authorizer of section 2, *human* is the common noun, because section 4 makes the doctrines sequential and does not state that the authorizer and the owner are the same person.
 
 ## 7. Use of this file
 
@@ -103,6 +105,7 @@ Where the subject is delegated authority, this account uses the principal-agent 
 
 ## Change log
 
+- v1.1.1 (2026-09-06, KST): register note gains the capitalization rule, settling when *Human* is a defined term and when it is a common noun, and gains the fourth register form *accountable human principal*, four live occurrences in GRCnext-Copilot that the v1.1.0 enumeration did not name; the list is now stated to be illustrative rather than exhaustive, so a future reader cannot take an omission for an exclusion. Ruled by Michael, 6 September 2026. v1.1.0 used both registers within three sections and stated no rule, which COMPLETION-RECORD-2026-09-06-03-session-d1.md section 6.2 recorded as a failed check rather than acting on, because capitalizing section 2 would have asserted a doctrinal identity section 4 does not state. No doctrine added, none renamed, no rule varied and no letter case changed anywhere in the file.
 - v1.1.0 (2026-09-06, KST): Informed Intent restated with its two limbs, the instrument (four elements) and the authorizer (five conditions), reconciling the canon with grc-workbook Module 10, the book's Chapter 9 and ai-governance-for-boards; disciplines section added placing Return to Source and Cognitive Provenance beneath the doctrines; register note added on principal-agent vocabulary. No doctrine added, none renamed, no rule varied.
 - v1.0.0 (2026-08-13, KST): first issue. Consolidates the three doctrine statements previously restated across repositories; adds the allocation lifecycle, the drafting rule and the Colorado and Vietnam statutory analogues.
 

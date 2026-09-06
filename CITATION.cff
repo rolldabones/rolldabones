@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you cite this work, please use the metadata below."
+title: "The rolldabones governance ecosystem and doctrine canon"
+authors:
+  - family-names: "Paik"
+    given-names: "Son-U Michael"
+version: 1.7.15
+date-released: "2026-09-06"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/rolldabones/rolldabones"
+abstract: "The profile repository of the rolldabones account. ECOSYSTEM.md is the single canonical map of the twenty content repositories across four layers; DOCTRINE.md is the single normative statement of the three doctrines, Slow AI, Informed Intent and Final Liability rests with the Human, which every other repository uses as stated and adds instruments to rather than doctrine."
