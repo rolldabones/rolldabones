@@ -27,7 +27,7 @@ A user's guide to this account, *The Handover*, is at https://redcaps.substack.c
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v1.7.15. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v1.7.16. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
