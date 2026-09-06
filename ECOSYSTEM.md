@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.16 · 6 September 2026 (KST)**
+**The rolldabones governance ecosystem · v1.7.17 · 6 September 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -14,7 +14,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 |---|---|
 | [grc](https://github.com/rolldabones/grc) | The foundation: the working method on the OCEG GRC Capability Model 3.5 spine (Principled Performance, the operating cycle, the 20 elements), with four build guides, a 21-prompt pack, six operating templates and FOUR-FRAMES.md, the four-frames geopolitical sense-making entry used alongside PESTLE and STEEPLE |
 | [grc-workbook](https://github.com/rolldabones/grc-workbook) | The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II |
-| [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: a 12-step governed AI methodology from individual task discipline to institutional program governance, with the Enterprise AI Architecture Primer as its companion architecture reference and three derivation modules: Karpathy's Kitchen (technical), Newton's Kitchen (conceptual, three laws of consequential motion) and Coetzee's Kitchen (epistemic, the human-AI loop read through Coetzee's Nobel lecture, with Return to Source and Cognitive Provenance as operating disciplines), and the Service Record, the one-page close-out through which the method is refined against records |
+| [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: a 12-step governed AI methodology from individual task discipline to institutional program governance, with the Enterprise AI Architecture Primer as its companion architecture reference and three derivation modules: Karpathy's Kitchen (technical), Newton's Kitchen (conceptual, three laws of consequential motion) and Coetzee's Kitchen (epistemic, the human-AI loop read through Coetzee's Nobel lecture, with Return to Source and Cognitive Provenance as operating disciplines), the Service Record, the one-page close-out through which the method is refined against records, and the Consultant Workbook, the 30-day engagement instrument through which the method is delivered to a Client on one workflow |
 | [definition-of-done](https://github.com/rolldabones/definition-of-done) | The acceptance doctrine: how done is defined before work begins and confirmed before reliance, the depth work inside the Kitchen's Gates 1, 6 and 7 |
 | [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, delivered as the Origami Workflow Guide custom GPT |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine |
@@ -80,6 +80,7 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Change log
 
+- v1.7.17 (2026-09-06, KST): description update: the slow-ai-kitchen line reflects the Consultant Workbook, the 30-day engagement delivery instrument added in that repository's v2.8.0. No layer change; twenty content repositories plus the profile.
 - v1.7.16 (2026-09-06, KST): description update: the slow-ai-kitchen line reflects the Service Record, the one-page close-out of a service added in that repository's v2.7.0, required for Tier 3 work, recommended for Tier 2 and optional for Tier 1. No layer change; twenty content repositories plus the profile.
 - v1.7.15 (2026-09-06, KST): DOCTRINE.md v1.1.1 announced per protocol item 6: the register note gains the capitalization rule settling when *Human* is a defined term and when it is a common noun. Citation infrastructure added across the account in the same session: CITATION.cff in all 21 public repositories, a uniform How to Cite block, and the doctrine citation line in the eight repositories that restate a doctrine. No layer change; twenty content repositories plus the profile.
 - v1.7.14 (2026-09-06, KST): DOCTRINE.md v1.1.0 announced per protocol item 6: Informed Intent restated with two limbs, disciplines placed, register note added. Summary paragraph's Informed Intent compression aligned to the canon. No layer change; twenty content repositories plus the profile.
