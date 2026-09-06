@@ -9,7 +9,9 @@ My work is grounded in three doctrines and one operating framework:
 - **Final Liability rests with the Human** (every outcome attaches to a named owner with decision rights, oversight and power to intervene)
 - **GRCnext™** (72-hour optionality that keeps the business lawful and operable when rules collide and constraints hit fast)
 
-I am an attorney, AI auditor and governance architect with 25+ years designing risk systems for cross-border institutions in regulated, high-stakes sectors across Asia, Europe and the US. I have served as an executive and General Counsel for three listed companies, and most recently led legal operations at BABL.ai, advancing algorithmic audit and AI certification aligned to the EU AI Act and ISO/IEC 42001.
+The normative statement of the three doctrines is [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md); ECOSYSTEM.md carries the summary and the map.
+
+I am an attorney, AI auditor and governance architect with 25+ years designing risk systems for cross-border institutions in regulated, high-stakes sectors across Asia, Europe and the US. I have served as an executive and General Counsel for three listed companies, and most recently as General Counsel of BABL AI (2024 to 2026), advancing algorithmic audit and AI certification aligned to the EU AI Act and ISO/IEC 42001.
 
 ### Offerings
 
@@ -20,5 +22,7 @@ I am an attorney, AI auditor and governance architect with 25+ years designing r
 Here, I will share the AI workflows (the "Spellbooks"), Tiny Servants and frameworks I use for this work, so they are reusable and inspectable by others who care about the same problems.
 
 The full map of how these repositories connect is in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md).
+
+A user's guide to this account, *The Handover*, is at https://redcaps.substack.com/p/the-handover.
 
 **Thanks for checking this out.** You can always reach me at sonupaik@gmail.com.

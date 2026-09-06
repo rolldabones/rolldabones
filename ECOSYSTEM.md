@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.12 · 30 August 2026 (KST)**
+**The rolldabones governance ecosystem · v1.7.13 · 6 September 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -54,7 +54,7 @@ Doctrine (Layer 1) defines what governed means. The Origami Method turns that de
 
 ## Published expositions
 
-Seven essays name or carry things that live in this account. They are origin documents rather than repositories, and the repositories state their subjects fresh rather than excerpting them.
+Eight essays name or carry things that live in this account. They are origin documents rather than repositories, and the repositories state their subjects fresh rather than excerpting them.
 
 - [*The Dungeon Is a Legal System*](https://redcaps.substack.com/p/the-dungeon-is-a-legal-system) (July 2026) named **computational drafting**, the discipline canonized in computational-drafting.
 - [*Made to Hold*](https://redcaps.substack.com/p/made-to-hold) (28 July 2026) is the first public exposition of **GRCnext™** and the first public use of **Tiny Servants**.
@@ -63,6 +63,9 @@ Seven essays name or carry things that live in this account. They are origin doc
 - [*Prior Art*](https://redcaps.substack.com/p/prior-art) (5 August 2026) is the archeology of **computational drafting**: the discipline's independent convergence with pragmatic epistemology, found twelve years after the fact, and the four-level stack running from philosophy through drafting and the three doctrines to algorithmic audit. The discipline's instruments live in the [computational drafting repository](https://github.com/rolldabones/computational-drafting): the eight-element anatomy, the interpreter map, the hostile-case checklist and the templates.
 - [*Common Notions*](https://redcaps.substack.com/p/common-notions) (8 August 2026) is the historical argument beneath **computational drafting**, drawn from Euclid's *Elements*: unstated assumptions die with their interpreters, which is the case for the form on the way in, and a material assertion must be reconstructible, which is the case for the proof-carrying record on the way out. The record and its template, the claim-evidence matrix, enter the [computational drafting repository](https://github.com/rolldabones/computational-drafting) at v1.2.0.
 - [*The Gods of the New Great Game*](https://redcaps.substack.com/p/the-gods-of-the-new-great-game) (23 August 2026) is the public exposition of the **four-frame method**: four mythological system-hypotheses, Greek, Norse, Kali Yuga and Mandate of Heaven, run as a portfolio with pre-registered discriminators for reading the new Great Game. The method file and its scored Carney exhibit live in [grc](https://github.com/rolldabones/grc) as FOUR-FRAMES.md, entering at that repository's v2.2.0.
+- [*The Handover*](https://redcaps.substack.com/p/the-handover) (28 August 2026) is the user's guide to this account: who, what, when, where, why and how, with the weekly maintenance sweep as the when. It is the entry point for a reader arriving from outside the repositories.
+
+The Substack essay run closed on 28 August 2026 with *The Handover*. This list is complete unless a repository later publishes something an essay first named.
 
 ## Maintenance protocol
 
@@ -77,6 +80,7 @@ Seven essays name or carry things that live in this account. They are origin doc
 
 ## Change log
 
+- v1.7.13 (2026-09-06, KST): Published expositions extended to eight, adding *The Handover* (28 August 2026), the user's guide to the account; section closed with the essay run. README gains the DOCTRINE.md and *The Handover* pointers and the 13 August 2026 role formulation. No layer change; twenty content repositories plus the profile.
 - v1.7.12 (2026-08-30, KST): description update: the slow-ai-kitchen line reflects Coetzee's Kitchen, the epistemic derivation module added in that repository's v2.5.0. No layer change; twenty content repositories plus the profile.
 - v1.7.11 (2026-08-27, KST): description update: the slow-ai-kitchen line reflects Newton's Kitchen, the conceptual derivation module added in that repository's v2.4.0. No layer change; twenty content repositories plus the profile.
 - v1.7.10 (2026-08-24, KST): description update: the slow-ai-kitchen line reflects Karpathy's Kitchen, the technical derivation module added in that repository's v2.3. No layer change; twenty content repositories plus the profile.
