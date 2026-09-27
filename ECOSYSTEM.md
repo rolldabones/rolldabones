@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.18 · 7 September 2026 (KST)**
+**The rolldabones governance ecosystem · v1.7.19 · 28 September 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -16,7 +16,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 | [grc-workbook](https://github.com/rolldabones/grc-workbook) | The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II |
 | [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: a 12-step governed AI methodology from individual task discipline to institutional program governance, with the Enterprise AI Architecture Primer as its companion architecture reference and three derivation modules: Karpathy's Kitchen (technical), Newton's Kitchen (conceptual, three laws of consequential motion) and Coetzee's Kitchen (epistemic, the human-AI loop read through Coetzee's Nobel lecture, with Return to Source and Cognitive Provenance as operating disciplines), the Service Record, the one-page close-out through which the method is refined against records, the Consultant Workbook, the 30-day engagement instrument through which the method is delivered to a Client on one workflow, and Take-Out, Delivery & Vending Machines, the operating companion for governed delegation to AI agents across take-out, delivery and bounded services at distributed points of use |
 | [definition-of-done](https://github.com/rolldabones/definition-of-done) | The acceptance doctrine: how done is defined before work begins and confirmed before reliance, the depth work inside the Kitchen's Gates 1, 6 and 7 |
-| [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, delivered as the Origami Workflow Guide custom GPT |
+| [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, delivered as the Origami Workflow Guide custom GPT, which retires on 11 December 2026 with the instructions kept published |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine |
 | [computational-drafting](https://github.com/rolldabones/computational-drafting) | The drafting layer: the design of specifications that translate human and institutional intent into behavior across legal, organizational and technical interpreters, with the eight-element anatomy, the interpreter map, the hostile-case checklist, the proof-carrying analysis record, four templates and a worked example |
 
@@ -29,7 +29,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 | [RedCap-00](https://github.com/rolldabones/RedCap-00) | Operational-optionality self-check: can the organization execute five critical moves within 72 hours under disruption; evidence-capped, conservative scoring |
 | [RedCap-01](https://github.com/rolldabones/RedCap-01) | Objective-to-Risk Alignment Check: an evidence-oriented diagnostic testing whether ERM improves the decisions that determine objective achievement (informed by COSO's 2026 *From Guidance to Action*) |
 | [master-prompt-for-in-house-legal-and-compliance](https://github.com/rolldabones/master-prompt-for-in-house-legal-and-compliance) | The general-purpose in-house legal and compliance workbench |
-| [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | The artifact factory: production mirror of the AI GRC Spellbook Copilot custom GPT, which drafts the 30 canonical AI GRC artifacts with owners, evidence and systems of record |
+| [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | The artifact factory: production mirror of the AI GRC Spellbook Copilot custom GPT (retiring 11 December 2026, instructions kept published), which drafts the 30 canonical AI GRC artifacts with owners, evidence and systems of record |
 | [AI-GRC-Master-List-of-Questions](https://github.com/rolldabones/AI-GRC-Master-List-of-Questions) | The minimum input set (17 sections, mostly yes/no) that, once answered, lets the Spellbook Copilot draft all 30 artifacts; pairs with AI-GRC-Copilot |
 | [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot) | The optionality assessor: evidence-led scoring of Global Optionality across critical services (Pipes, Switches, Exits), with the v2 methodology, advisory tools suite, schemas and tests |
 | [Contract-Mechanism-Review-Assistant](https://github.com/rolldabones/Contract-Mechanism-Review-Assistant) | The contract specialist: a mode-gated review assistant treating contracts as risk-transfer mechanisms and executable business plans, with evidence anchors and an uncertainty register |
@@ -80,6 +80,7 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Change log
 
+- v1.7.19 (2026-09-28, KST): description update: the origami-method and AI-GRC-Copilot lines record that their custom GPTs retire on 11 December 2026, the date OpenAI's Custom GPT retirement and migration FAQ (read 28 September 2026) gives for custom GPTs to become inaccessible. On Michael's ruling of the same day the five public GPTs and the RedCap-01 GPT are retired rather than migrated, and each repository keeps its instructions published with a retirement notice. No layer change; twenty content repositories plus the profile.
 - v1.7.18 (2026-09-07, KST): description update: the slow-ai-kitchen line reflects Take-Out, Delivery & Vending Machines, the operating companion for governed delegation to AI agents added in that repository's v2.9.0. No layer change; twenty content repositories plus the profile.
 - v1.7.17 (2026-09-06, KST): description update: the slow-ai-kitchen line reflects the Consultant Workbook, the 30-day engagement delivery instrument added in that repository's v2.8.0. No layer change; twenty content repositories plus the profile.
 - v1.7.16 (2026-09-06, KST): description update: the slow-ai-kitchen line reflects the Service Record, the one-page close-out of a service added in that repository's v2.7.0, required for Tier 3 work, recommended for Tier 2 and optional for Tier 1. No layer change; twenty content repositories plus the profile.
