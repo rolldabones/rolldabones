@@ -25,11 +25,11 @@ The full map of how these repositories connect is in [ECOSYSTEM.md](https://gith
 
 A user's guide to this account, *The Handover*, is at https://redcaps.substack.com/p/the-handover.
 
-The Slow AI Kitchen method runs as a guided web application at https://kitchen.grcskorea.com/, in English, Korean, Vietnamese and Japanese.
+The Slow AI Kitchen repository runs as a guided web application at https://kitchen.grcskorea.com/, in English, Korean, Vietnamese and Japanese; the application states the Kitchen release its text follows, and the repository is the text of record.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v1.7.22. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v1.7.23. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
