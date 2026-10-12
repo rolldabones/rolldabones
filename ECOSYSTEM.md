@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.24 · 12 October 2026 (KST)**
+**The rolldabones governance ecosystem · v1.7.25 · 12 October 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -39,7 +39,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 | Repository | Role in the set |
 |---|---|
 | [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards) | Board mandate, best practices and jurisdiction guides (EU, US, Korea, Vietnam, Australia); where the assessment tools send their "verify with counsel" flags |
-| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing governance engagements, with client-facing publications |
+| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing governance engagements, with client-facing publications, among them *The Compression and the Harness*, the discussion piece that reads a language model as a lossy compression and the software around it as a harness and points from each part of that argument to the instrument in this account that carries it |
 | [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | One-day corporate workshop: LLM foundations, a repeatable prompting workflow, a tool selection map and the AI GRC minimum control set, with the three doctrines applied to real corporate use cases |
 
 ## Layer 4: Field studies
@@ -80,6 +80,7 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Change log
 
+- v1.7.25 (2026-10-12, KST): description update: the AI-Governance-Academy line names *The Compression and the Harness*, the discussion piece added in that repository's v1.9.0, whose closing table maps its sections to DOCTRINE.md, slow-ai-kitchen, computational-drafting, definition-of-done, the book, the-ungoverned-channel, GRCnext-Copilot, RedCap-00, the-ai-generalist, AI-Impact-Assessment-Tool and ai-governance-for-boards. The piece is a repository publication and not a Substack essay, so Published expositions is unchanged and stays closed. No layer change; twenty content repositories plus the profile.
 - v1.7.24 (2026-10-12, KST): the profile README gains a masthead version line, on Michael's ruling of 12 October 2026 in the second guard audit session (account-maintenance register row E3b-6). Until now the README carried no version outside its own How to Cite line, so the account's E3b guard compared that line to itself and could never report a lag on this repository. No layer change; no content change; twenty content repositories plus the profile.
 - v1.7.23 (2026-10-11, KST): description update: the slow-ai-kitchen line says the repository, not the twelve steps alone, runs as the guided web application, which since its rebuild of 11 October 2026 against slow-ai-kitchen v2.11.0 carries the Cookbook, the sample prompts, the Consultant Workbook, the agent companion, the three derivation modules, the federal bridge and the reference resources as well, states the Kitchen release its text follows, and is rebuilt only after a human release; the repository is the text of record. The profile README carries the same sentence. No layer change; twenty content repositories plus the profile.
 - v1.7.22 (2026-10-05, KST): consistency correction in How the layers connect: RedCap-00 is described as testing Pipes, Switches and Exits, the three primitives that its own README and the GRCnext-Copilot sentence of the same paragraph name. The line previously named Exits and Switches only. Ruled by the author on 5 October 2026. No layer change; twenty content repositories plus the profile.
