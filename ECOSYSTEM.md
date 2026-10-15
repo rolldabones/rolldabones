@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v1.7.26 · 15 October 2026 (KST)**
+**The rolldabones governance ecosystem · v1.7.27 · 15 October 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -80,6 +80,7 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Change log
 
+- v1.7.27 (2026-10-15, KST): DOCTRINE.md v1.1.2 announced per protocol item 6: the section 3.3 status tags for the Colorado and Vietnam statutory analogues are corrected against the primary texts (Colorado enacted and in effect 1 January 2027, with the 6-1-1707(4) carve-out and (7)(b) exception; Vietnam Decision 33/2026/QD-TTg named, pinpointed to Article 1(2) and dated in force 15 August 2026). No doctrine added, none renamed, no rule varied. First release of the nine-session whole-account review of 15 October 2026 (session T1). No layer change; twenty content repositories plus the profile.
 - v1.7.26 (2026-10-15, KST): description update: the AI-Governance-Academy line names *The Map and the Pair*, the discussion piece added in that repository's v1.10.0, whose closing table maps its sections to DOCTRINE.md, slow-ai-kitchen, computational-drafting, definition-of-done, GRCnext-Copilot and ai-governance-for-boards. The piece is a repository publication and not a Substack essay, so Published expositions is unchanged and stays closed. No layer change; twenty content repositories plus the profile.
 - v1.7.25 (2026-10-12, KST): description update: the AI-Governance-Academy line names *The Compression and the Harness*, the discussion piece added in that repository's v1.9.0, whose closing table maps its sections to DOCTRINE.md, slow-ai-kitchen, computational-drafting, definition-of-done, the book, the-ungoverned-channel, GRCnext-Copilot, RedCap-00, the-ai-generalist, AI-Impact-Assessment-Tool and ai-governance-for-boards. The piece is a repository publication and not a Substack essay, so Published expositions is unchanged and stays closed. No layer change; twenty content repositories plus the profile.
 - v1.7.24 (2026-10-12, KST): the profile README gains a masthead version line, on Michael's ruling of 12 October 2026 in the second guard audit session (account-maintenance register row E3b-6). Until now the README carried no version outside its own How to Cite line, so the account's E3b guard compared that line to itself and could never report a lag on this repository. No layer change; no content change; twenty content repositories plus the profile.
