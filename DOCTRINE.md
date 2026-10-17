@@ -1,6 +1,6 @@
 # DOCTRINE.md
 
-**The rolldabones doctrine canon · v1.1.2 · 15 October 2026 (KST)**
+**The rolldabones doctrine canon · v1.2.0 · 17 October 2026 (KST)**
 
 **Destination: rolldabones/rolldabones (profile repository), beside [ECOSYSTEM.md](ECOSYSTEM.md). This file is the single normative statement of the three doctrines. [ECOSYSTEM.md](ECOSYSTEM.md) keeps its one-paragraph summary and points here. Every other repository uses these definitions exactly as stated and adds instruments, not doctrine.**
 
@@ -43,10 +43,10 @@ Accountability has three moments, and confusing them is the most common failure 
 | Moment | What happens |
 |---|---|
 | **Named at specification** | The owner is identified before the work begins, as part of the authorization. Naming after the fact is selection of a scapegoat, not allocation of accountability |
-| **Attaches at confirmation** | Accountability binds when the named human confirms the output against criteria defined in advance. Confirmation has three lawful outcomes: confirm, refuse, or amend and confirm, each with a record. There is no fourth |
+| **Attaches at confirmation** | Accountability binds when the named human confirms the output against criteria defined in advance. Confirmation has three lawful outcomes, each with a record: confirm; refuse; amend and confirm. There is no fourth |
 | **Holds through reliance** | It does not end at confirmation. It persists for as long as the organization or a third party relies on the output, which is usually far longer than the project that produced it |
 
-The lifecycle is why "who approved this" is the wrong first question after a failure. The right sequence is: who was named, on what specification, what did they confirm, against what criteria, and who has been relying on it since.
+The lifecycle is why "who approved this" is the wrong first question after a failure. The right sequence is: who was named, on what specification, what did they confirm, against what criteria and who has been relying on it since.
 
 ### 3.2 The drafting rule
 
@@ -101,10 +101,35 @@ Where the subject is delegated authority, this account uses the principal-agent 
 3. Altitude restatement is permitted; rule variation is not. Board, enterprise and task registers of the same doctrine must reduce to the same rule.
 4. Changes to a doctrine statement are versioned here and logged below, and the change is announced in [ECOSYSTEM.md](ECOSYSTEM.md)'s change log in the same commit series.
 5. Where a jurisdiction's law states something close to a doctrine, cite it as an analogue with a pinpoint, an as-at date and a status tag. Do not present the doctrine as law.
-6. Summary lines elsewhere in this account compress the doctrines; where a compression lists elements or conditions, it lists this file's or points here.
+6. Summary lines elsewhere in this account compress the doctrines. A compression copies a short form of section 8 verbatim or points to that section; nothing else is permitted.
+
+## 8. Short forms
+
+A repository that compresses a doctrine copies one of the forms below verbatim, or points to this section in the pointer form. Nothing else is permitted. The short forms add no rule; each reduces to the statement in sections 1 to 3, which governs wherever the two are read together. The altitude restatements in force under section 2 are unaffected.
+
+**Sentence forms.** One sentence per doctrine, for a summary line, a masthead or a module opening.
+
+| Doctrine | Short form |
+|---|---|
+| Slow AI | Slow AI: AI that cannot be governed, explained and audited is not deployed; the three tests are conjunctive, and the doctrine is a precondition, not a speed limit. |
+| Informed Intent | Informed Intent: no AI system acts without prior authorization stating its purpose, authority, boundaries and exit, given by a human who meets the five authorizer conditions. |
+| Final Liability | Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene. |
+
+**List forms.** Where a compression lists, it lists one of these sets in full and in these words, adding nothing to it.
+
+| Set | List form |
+|---|---|
+| Slow AI, the three tests | governed, explained, audited |
+| Informed Intent, the four elements of the instrument | purpose, authority, boundaries, exit |
+| Informed Intent, the five authorizer conditions | Knowledge, Evidence, Authority, Time, Permission |
+| Final Liability, the three attributes | decision rights, oversight, the power to intervene |
+| Final Liability, the allocation lifecycle | named at specification, attaches at confirmation, holds through reliance |
+
+**Pointer form.** Where a repository does not compress, it points: *as stated in [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md), the account's single normative statement of the three doctrines.* The citation line already carried by the repositories that restate a doctrine is a pointer form.
 
 ## Change log
 
+- v1.2.0 (2026-10-17, KST): section 8, Short forms, added: one sanctioned sentence form per doctrine, five list forms (the three tests, the four elements, the five authorizer conditions, the three attributes and the allocation lifecycle) and the pointer form; section 7 item 6 now requires a compression to copy a short form verbatim or point to section 8. Two serial commas in section 3.1 removed, wording otherwise unchanged. Found by the whole-account review of 15 October 2026 (doc section 1, item 1), session T3. No doctrine added, none renamed, no rule varied.
 - v1.1.2 (2026-10-15, KST): section 3.3 status tags corrected against primary texts read this day. Colorado: "Binding law" becomes "Enacted law, not yet in effect", with SB 26-189 (ch. 131, approved 14 May 2026), the 1 January 2027 effective and applicability date, the 6-1-1707(4) "except to the extent permitted under existing law" carve-out, the (7)(b) developer exception and the *xAI v. Weiser* stay. Vietnam: the Decision is named for what it is (the high-risk list under the AI Law), pinpointed to Article 1(2), dated in force 15 August 2026 and marked as read in translation. Found by the whole-account review of 15 October 2026 (doc §2; reviewer report 15, items A7 and A8). No doctrine added, none renamed, no rule varied.
 - v1.1.1 (2026-09-06, KST): register note gains the capitalization rule, settling when *Human* is a defined term and when it is a common noun, and gains the fourth register form *accountable human principal*, four live occurrences in GRCnext-Copilot that the v1.1.0 enumeration did not name; the list is now stated to be illustrative rather than exhaustive, so a future reader cannot take an omission for an exclusion. Ruled by Michael, 6 September 2026. v1.1.0 used both registers within three sections and stated no rule, which COMPLETION-RECORD-2026-09-06-03-session-d1.md section 6.2 recorded as a failed check rather than acting on, because capitalizing section 2 would have asserted a doctrinal identity section 4 does not state. No doctrine added, none renamed, no rule varied and no letter case changed anywhere in the file.
 - v1.1.0 (2026-09-06, KST): Informed Intent restated with its two limbs, the instrument (four elements) and the authorizer (five conditions), reconciling the canon with grc-workbook Module 10, the book's Chapter 9 and ai-governance-for-boards; disciplines section added placing Return to Source and Cognitive Provenance beneath the doctrines; register note added on principal-agent vocabulary. No doctrine added, none renamed, no rule varied.

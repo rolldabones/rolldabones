@@ -1,12 +1,12 @@
 ## Enterprise AI governance, risk management and compliance
 
-**v1.7.27 · 15 October 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
+**v1.7.28 · 17 October 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
 
 Bridging algorithmic audit, legal structuring and execution, I design enterprise AI governance, risk management and compliance (GRC) frameworks and applications.
 
 My work is grounded in three doctrines and one operating framework:
 
-- **Slow AI** (governed AI, explainable and auditable, built for evidence, not assurances)
+- **Slow AI** (AI that cannot be governed, explained and audited is not deployed: a precondition, not a speed limit)
 - **Informed Intent** (no action without prior authorization stating purpose, authority, boundaries and exit, given by a human with the knowledge, evidence, authority, time and permission to give it)
 - **Final Liability rests with the Human** (every outcome attaches to a named owner with decision rights, oversight and power to intervene)
 - **GRCnext™** (72-hour optionality that keeps the business lawful and operable when rules collide and constraints hit fast)
@@ -31,8 +31,12 @@ The Slow AI Kitchen repository runs as a guided web application at https://kitch
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v1.7.27. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v1.7.28. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
 **Thanks for checking this out.** You can always reach me at sonupaik@gmail.com.
+
+---
+
+**Final Liability rests with the Human.**
