@@ -1,6 +1,6 @@
 ## Enterprise AI governance, risk management and compliance
 
-**v1.7.28 · 17 October 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
+**v1.7.29 · 18 October 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
 
 Bridging algorithmic audit, legal structuring and execution, I design enterprise AI governance, risk management and compliance (GRC) frameworks and applications.
 
@@ -11,7 +11,7 @@ My work is grounded in three doctrines and one operating framework:
 - **Final Liability rests with the Human** (every outcome attaches to a named owner with decision rights, oversight and power to intervene)
 - **GRCnext™** (72-hour optionality that keeps the business lawful and operable when rules collide and constraints hit fast)
 
-The normative statement of the three doctrines is [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md); ECOSYSTEM.md carries the summary and the map.
+The normative statement of the three doctrines is [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md); ECOSYSTEM.md carries the summary and the map. The custom GPTs this account once published were retired on 1 October 2026; [RETIREMENT.md](https://github.com/rolldabones/rolldabones/blob/main/RETIREMENT.md) records the retirement once, and the instructions published in each repository are the text of record.
 
 I am an attorney, AI auditor and governance architect with 25+ years designing risk systems for cross-border institutions in regulated, high-stakes sectors across Asia, Europe and the US. I have served as an executive and General Counsel for three listed companies, and most recently as General Counsel of BABL AI (2024 to 2026), advancing algorithmic audit and AI certification aligned to the EU AI Act and ISO/IEC 42001.
 
@@ -31,7 +31,7 @@ The Slow AI Kitchen repository runs as a guided web application at https://kitch
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v1.7.28. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v1.7.29. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
