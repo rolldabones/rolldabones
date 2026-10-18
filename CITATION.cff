@@ -4,8 +4,15 @@ title: "The rolldabones governance ecosystem and doctrine canon"
 authors:
   - family-names: "Paik"
     given-names: "Son-U Michael"
-version: 1.7.29
+version: 2.0.0
 date-released: "2026-10-18"
 license: CC-BY-NC-SA-4.0
+keywords:
+  - "AI governance"
+  - "risk management"
+  - "compliance"
+  - "AI audit"
+  - "Slow AI"
+  - "Final Liability rests with the Human"
 repository-code: "https://github.com/rolldabones/rolldabones"
 abstract: "The profile repository of the rolldabones account. ECOSYSTEM.md is the single canonical map of the twenty content repositories across four layers; DOCTRINE.md is the single normative statement of the three doctrines, Slow AI, Informed Intent and Final Liability rests with the Human, which every other repository uses as stated and adds instruments to rather than doctrine."
