@@ -20,7 +20,7 @@ Three doctrines run through everything here. The normative statement is [DOCTRIN
 - [**Informed Intent**](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#2-informed-intent): no AI system acts without prior authorization stating its purpose, authority, boundaries and exit, given by a human who meets the five authorizer conditions.
 - [**Final Liability rests with the Human**](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#3-final-liability-rests-with-the-human): every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene.
 
-**GRCnext™** is the operating framework beneath the doctrines: the capacity to preserve or create lawful, authorized and executable choices, within the impact tolerance, when a critical service, dependency, provider, jurisdiction or operating assumption becomes unavailable or unacceptable. Its five primitives are Services, Tolerances, Pipes, Switches and Exits, run as an engine in [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot).
+**GRCnext™** is the operating framework beneath the doctrines. The property it tests is **Global Optionality**: the capacity to preserve or create lawful, authorized and executable choices when a critical service, dependency, provider, jurisdiction, technology or operating assumption becomes unavailable or unacceptable. Its five primitives are Services, Tolerances, Pipes, Switches and Exits, run as an engine in [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot).
 
 ## Offerings
 

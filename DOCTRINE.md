@@ -1,8 +1,8 @@
 # DOCTRINE.md
 
-**The rolldabones doctrine canon · v1.2.0 · 17 October 2026 (KST)**
+**The rolldabones doctrine canon · v1.2.0 · 17 October 2026 (Korea Standard Time, KST)**
 
-**Destination: rolldabones/rolldabones (profile repository), beside [ECOSYSTEM.md](ECOSYSTEM.md). This file is the single normative statement of the three doctrines. [ECOSYSTEM.md](ECOSYSTEM.md) keeps its one-paragraph summary and points here. Every other repository uses these definitions exactly as stated and adds instruments, not doctrine.**
+**This file, beside [ECOSYSTEM.md](ECOSYSTEM.md), is the single normative statement of the three doctrines. [ECOSYSTEM.md](ECOSYSTEM.md) keeps its one-paragraph summary and points here. Every other repository uses these definitions exactly as stated and adds instruments, not doctrine.**
 
 Three doctrines run through this account. They are stated here once, in normative form, so that twenty-one repositories do not each drift their own version. Where a repository needs a formulation at a different altitude, board, enterprise or task, it may restate the doctrine in its own register. It may not restate it into a different rule.
 
@@ -92,7 +92,7 @@ Two operating disciplines run through every working session under the three doct
 
 Where the subject is delegated authority, this account uses the principal-agent register: the system is the agent, the human is the principal. "Human principal", "named human principal", "accountable human principal" and "accountable principal" in that register mean the named human owner of section 3 and nothing more, and the list is illustrative rather than exhaustive. The register is conformant; the sweep treats it as such.
 
-**Capitalization.** *the Human* is a defined term in this account and denotes the named human owner of section 3, the bearer of Final Liability; it is capitalized in that sense, in section 5 where the disciplines address that person, and in the closing line, while everywhere else, including the authorizer of section 2, *human* is the common noun, because section 4 makes the doctrines sequential and does not state that the authorizer and the owner are the same person.
+**Capitalization.** *the Human* is a defined term in this account and denotes the named human owner of section 3, the bearer of Final Liability; it is capitalized in that sense, in section 5 where the disciplines address that person and in the closing line, while everywhere else, including the authorizer of section 2, *human* is the common noun, because section 4 makes the doctrines sequential and does not state that the authorizer and the owner are the same person.
 
 ## 7. Use of this file
 

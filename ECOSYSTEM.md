@@ -1,8 +1,8 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.0.1 · 20 October 2026 (KST)**
+**The rolldabones governance ecosystem · v2.0.1 · 20 October 2026 (Korea Standard Time, KST)**
 
-**Destination: rolldabones/rolldabones (profile repository). This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
+**This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
 Everything in this account serves one practice: enterprise AI governance, risk management and compliance that is evidence-led and auditable. Three doctrines run through all of it: **Slow AI** (AI that cannot be governed, explained and audited is not deployed: a precondition, not a speed limit), **Informed Intent** (no action without prior authorization stating purpose, authority, boundaries and exit, given by a human with the knowledge, evidence, authority, time and permission to give it) and **Final Liability rests with the Human** (every outcome attaches to a named human with decision rights, oversight and the power to intervene). The **GRCnext™** framework supplies the operating primitives: Services, Tolerances, Pipes, Switches, Exits.
 
@@ -12,7 +12,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 
 | Repository | Role in the set |
 |---|---|
-| [grc](https://github.com/rolldabones/grc) | The foundation: the working method on the OCEG GRC Capability Model 3.5 spine (Principled Performance, the operating cycle, the 20 elements), with four build guides, a 21-prompt pack, six operating templates and FOUR-FRAMES.md, the four-frames geopolitical sense-making entry |
+| [grc](https://github.com/rolldabones/grc) | The foundation: the working method on the OCEG (Open Compliance and Ethics Group) GRC Capability Model 3.5 spine (Principled Performance, the operating cycle, the 20 elements), with four build guides, a 21-prompt pack, six operating templates and FOUR-FRAMES.md, the four-frames geopolitical sense-making entry |
 | [grc-workbook](https://github.com/rolldabones/grc-workbook) | The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II |
 | [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: the twelve-step governed AI methodology, with the Enterprise AI Architecture Primer, three derivation modules (Karpathy's, Newton's and Coetzee's Kitchen), the Service Record, the Consultant Workbook, Take-Out, Delivery & Vending Machines and the guided web app at [kitchen.grcskorea.com](https://kitchen.grcskorea.com/) |
 | [definition-of-done](https://github.com/rolldabones/definition-of-done) | The acceptance doctrine: how done is defined before work begins and confirmed before reliance, the depth work inside the Kitchen's Gates 1, 6 and 7 |
@@ -24,10 +24,10 @@ The paragraph above is the summary. The normative statement of the three doctrin
 
 | Repository | Role in the set |
 |---|---|
-| [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Pre-deployment and lifecycle impact assessment aligned to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and ISO/IEC 42005; the Informed Intent gate in tool form; formerly the AI Impact Assessment Assistant custom GPT, retired 1 October 2026 |
+| [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Pre-deployment and lifecycle impact assessment aligned to the EU AI Act, the NIST (National Institute of Standards and Technology) AI Risk Management Framework (AI RMF), ISO/IEC 42001 and ISO/IEC 42005; the Informed Intent gate in tool form; formerly the AI Impact Assessment Assistant custom GPT, retired 1 October 2026 |
 | [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Continuous risk-informed decision making under uncertainty; auditable work product |
 | [RedCap-00](https://github.com/rolldabones/RedCap-00) | Operational-optionality self-check: can the organization execute five critical moves within 72 hours under disruption; evidence-capped, conservative scoring; formerly the RedCap-00 custom GPT, retired 1 October 2026 |
-| [RedCap-01](https://github.com/rolldabones/RedCap-01) | Objective-to-Risk Alignment Check: an evidence-oriented diagnostic testing whether ERM improves the decisions that determine objective achievement (informed by COSO's 2026 *From Guidance to Action*); formerly the RedCap-01 custom GPT, retired 1 October 2026 |
+| [RedCap-01](https://github.com/rolldabones/RedCap-01) | Objective-to-Risk Alignment Check: an evidence-oriented diagnostic testing whether enterprise risk management (ERM) improves the decisions that determine objective achievement (informed by the 2026 *From Guidance to Action* of COSO, the Committee of Sponsoring Organizations of the Treadway Commission); formerly the RedCap-01 custom GPT, retired 1 October 2026 |
 | [master-prompt-for-in-house-legal-and-compliance](https://github.com/rolldabones/master-prompt-for-in-house-legal-and-compliance) | The master prompt: a system prompt that turns a general-purpose assistant into a disciplined in-house legal and compliance assistant for counsel, compliance, legal operations and the business stakeholders they serve |
 | [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | The artifact factory: an instrument that drafts the 30 canonical AI GRC artifacts with owners, evidence and systems of record; formerly the AI GRC Spellbook Copilot custom GPT, retired 1 October 2026 |
 | [AI-GRC-Master-List-of-Questions](https://github.com/rolldabones/AI-GRC-Master-List-of-Questions) | The minimum input set (17 sections, mostly yes/no) that, once answered, lets the Spellbook Copilot draft all 30 artifacts; pairs with AI-GRC-Copilot |
