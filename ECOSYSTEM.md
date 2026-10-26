@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.1.2 · 26 October 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.1.3 · 26 October 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -55,7 +55,7 @@ Every instrument in the account, with its status under [ACCEPTANCE.md](ACCEPTANC
 | Instrument | Repository | Status |
 |---|---|---|
 | AI GRC Copilot | [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | Not accepted. Run T5 (18 October 2026) passed 13 of 15 cases; critical case C1 (no invented facts) failed, and C14 (house style) is a residual defect. |
-| AI Governance Academy, templates 01 to 08 | [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Not accepted. Run A4 (26 October 2026) of the published templates passed 7 of 24 samples and none of the 8 cases after review, below the 80 percent ACCEPTANCE.md (c) requires; the open defects K7, K8 and K9 and the residual K5 are listed in its tests.md. |
+| AI Governance Academy, templates 01 to 08 | [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Not accepted. Run A5 (26 October 2026) of the published templates passed 20 of 24 samples and 5 of the 8 cases after review (T01, T04, T05, T07 and T08), below the 80 percent ACCEPTANCE.md (c) requires; T02, T03 and T06 fail on the residual defects K5, K6 and K9 listed in its tests.md. |
 | AI Impact Assessment Tool, block v1.4.3 | [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Accepted with residuals. Run R1 (26 October 2026) passed 9 of 10 cases on block v1.4.3, critical cases OV2 and OV7 among them; OV6 (evidence statuses) is a residual defect, to be fixed in the next block (known defect 5). |
 | Contract Mechanism Review Assistant | [Contract-Mechanism-Review-Assistant](https://github.com/rolldabones/Contract-Mechanism-Review-Assistant) | Not accepted. Run T5 (18 October 2026) passed every critical case but 9 of 13 others (69 percent, below 80), and C10 and C13 have pass conditions rewritten at v1.2.4 that no run has exercised. |
 | Definition of Done Interrogator | [definition-of-done](https://github.com/rolldabones/definition-of-done) | Not accepted. Run T5 (18 October 2026) passed 10 of 12 cases; critical case IR-09 (no invented facts) failed, and IR-07 is a residual defect. |
@@ -134,8 +134,9 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Change log
 
-**Current state, as at v2.1.2 (26 October 2026, KST).** Twenty content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.1, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; this file, the profile README and CITATION.cff move together under protocol item 5. The entries below are shipped history, newest first, kept as cut; struck text in them is struck as recorded.
+**Current state, as at v2.1.3 (26 October 2026, KST).** Twenty content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.1, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; this file, the profile README and CITATION.cff move together under protocol item 5. The entries below are shipped history, newest first, kept as cut; struck text in them is struck as recorded.
 
+- v2.1.3 (2026-10-26, KST): patch. Instrument status: AI-Governance-Academy stays not accepted, now on run A5 of its v1.14.8 text (K7, K8 and K9 fixed), 5 of 8 cases after review against 0 of 8 in run A4 (its v1.14.9). Prepared with Claude, approved by Michael Paik.
 - v2.1.2 (2026-10-26, KST): patch. Instrument status: AI-Governance-Academy and risk-informed-decision-making-prompt stay not accepted, now on their logged runs of the published text (A4, 0 of 8 cases after review, its v1.14.7; R1, 0 of 2, its v1.7.2), where before each rested on an earlier text. Erratum: the GitHub release note and the commit message of v2.1.1 carried the v2.1.0 entry in place of its own; the release note is corrected with this release, and the commit message, being history, stands. Prepared with Claude, approved by Michael Paik.
 - v2.1.1 (2026-10-26, KST): patch. Instrument status: AI-Impact-Assessment-Tool accepted with residuals (run R1, 9 of 10, its v1.4.5) and RedCap-00 accepted (run R2, 26 of 26 after K1 was closed in its reference.md, its v1.2.6); three instruments are accepted at their published text. Prepared with Claude, approved by Michael Paik.
 - v2.1.0 (2026-10-26, KST): minor. [ACCEPTANCE.md](ACCEPTANCE.md) added: the one acceptance rule every tests file is read under, parameters (a) to (g) ruled by Michael Paik on 24 October 2026 and the critical cases and the reading of (e) on 26 October 2026; this file gains the Instrument status table (parameter (g)); [RETIREMENT.md](RETIREMENT.md) item 4 points to it. Train A of the whole-account review of 24 October 2026; prepared with Claude, approved by Michael Paik.
