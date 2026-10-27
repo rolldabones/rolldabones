@@ -1,4 +1,4 @@
-# ACCEPTANCE.md
+# ACCEPTANCE
 
 **When an instrument in this account is accepted · v1.0.0 · 26 October 2026 (Korea Standard Time, KST)**
 
