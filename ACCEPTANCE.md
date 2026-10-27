@@ -1,6 +1,6 @@
 # ACCEPTANCE
 
-**When an instrument in this account is accepted · v1.0.0 · 26 October 2026 (Korea Standard Time, KST)**
+**When an instrument in this account is accepted · v1.0.1 · 27 October 2026 (Korea Standard Time, KST)**
 
 An instrument here is a published text that runs as the system prompt of a current assistant: an instruction block, a prompt or a set of templates. Each one carries a tests file with cases derived from its own rules and a record of every logged run. This file is the one rule those tests files are read under. A tests file states its cases, its critical cases, its run record and its status; it no longer states an acceptance rule of its own. The rules the tests files carried before 26 October 2026 stay in them as the record of the runs they were applied to.
 
@@ -31,6 +31,7 @@ Acceptance is a finding about one text on one model on one date, scored by a dif
 
 ## Change log
 
+- v1.0.1 (2026-10-27, KST): the heading reads "ACCEPTANCE" in place of "ACCEPTANCE.md", edited by Michael Paik on GitHub (commit `1411171`); this entry and the masthead were added afterwards, in profile v2.1.5. No rule changed.
 - v1.0.0 (2026-10-26, KST): created in train A of the whole-account review of 24 October 2026; prepared with Claude, approved by Michael Paik.
 
 ---
