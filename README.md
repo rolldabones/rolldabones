@@ -1,6 +1,6 @@
 # Enterprise AI governance, risk management and compliance
 
-**v2.1.5 · 27 October 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
+**v2.1.6 · 30 October 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
 
 This account publishes the doctrines, methods, instruments and teaching materials of one practice, enterprise AI governance, risk management and compliance (GRC) that is evidence-led and auditable, across twenty content repositories mapped in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md).
 
@@ -57,7 +57,7 @@ The Slow AI Kitchen repository runs as a guided web application at https://kitch
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.1.5. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.1.6. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

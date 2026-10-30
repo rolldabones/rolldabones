@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.1.5 · 27 October 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.1.6 · 30 October 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -39,7 +39,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 | Repository | Role in the set |
 |---|---|
 | [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards) | Board mandate, operating discipline and value in `handbook.md`, the jurisdiction guides (EU, US, Korea, Vietnam, Australia), Part 6 best practices and CURRENCY.md; where the assessment tools send their "verify with counsel" flags |
-| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing engagements (eight templates) and six client-facing publications, among them *The Compression and the Harness* and *The Map and the Pair*, each pointing to the instrument in this account that carries its argument |
+| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing engagements (eight templates) and seven client-facing publications, among them *The Compression and the Harness*, *The Map and the Pair* and *The Artificial Familiar*, each pointing to the instrument in this account that carries its argument |
 | [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | One-day corporate workshop for working professionals: a facilitator guide, participant handout, tool map and builder primer covering LLM foundations, a repeatable prompting workflow, tool selection and the AI GRC minimum control set, with the three doctrines applied |
 
 ## Layer 4: Field studies
@@ -134,8 +134,9 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Change log
 
-**Current state, as at v2.1.5 (27 October 2026, KST).** Twenty content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.1, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; this file, the profile README and CITATION.cff move together under protocol item 5. The entries below are shipped history, newest first, kept as cut; struck text in them is struck as recorded.
+**Current state, as at v2.1.6 (30 October 2026, KST).** Twenty content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.1, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; this file, the profile README and CITATION.cff move together under protocol item 5. The entries below are shipped history, newest first, kept as cut; struck text in them is struck as recorded.
 
+- v2.1.6 (2026-10-30, KST): description update: the AI-Governance-Academy line names *The Artificial Familiar*, the discussion piece added in that repository's v1.15.0, and counts seven publications. The piece is a repository publication and not a Substack essay, so Published expositions is unchanged and stays closed. No layer change; twenty content repositories plus the profile. Prepared with Claude, approved by Michael Paik.
 - v2.1.5 (2026-10-27, KST): patch. Records an edit made on GitHub: commit `1411171` (27 October 2026) changed the heading of [ACCEPTANCE.md](ACCEPTANCE.md) from "ACCEPTANCE.md" to "ACCEPTANCE" with no version or change-log line; ACCEPTANCE.md moves to v1.0.1 with its own entry. No rule changed, so no acceptance is affected (ACCEPTANCE.md (f)). Prepared with Claude, approved by Michael Paik.
 - v2.1.4 (2026-10-27, KST): patch. Instrument status: the GRCnext™ Copilot main prompt is accepted with residuals on claude-opus-5-5 on its first logged runs (GRCnext-Copilot v2.7.0: run R2, all 12 critical cases and 13 of 14 others, SC2 a residual) and not accepted on claude-sonnet-5-5 (critical case A6 failed); four instruments are now accepted at their published text. Prepared with Claude, approved by Michael Paik.
 - v2.1.3 (2026-10-26, KST): patch. Instrument status: AI-Governance-Academy stays not accepted, now on run A5 of its v1.14.8 text (K7, K8 and K9 fixed), 5 of 8 cases after review against 0 of 8 in run A4 (its v1.14.9). Prepared with Claude, approved by Michael Paik.
