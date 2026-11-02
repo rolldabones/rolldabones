@@ -1,6 +1,6 @@
 # DOCTRINE.md
 
-**The rolldabones doctrine canon · v1.2.1 · 20 October 2026 (Korea Standard Time, KST)**
+**The rolldabones doctrine canon · v1.2.2 · 3 November 2026 (Korea Standard Time, KST)**
 
 **This file, beside [ECOSYSTEM.md](ECOSYSTEM.md), is the single normative statement of the three doctrines. [ECOSYSTEM.md](ECOSYSTEM.md) keeps its one-paragraph summary and points here. Every other repository uses these definitions exactly as stated and adds instruments, not doctrine.**
 
@@ -99,7 +99,7 @@ Where the subject is delegated authority, this account uses the principal-agent 
 1. This file is the only normative statement of the three doctrines in this account. Repositories link here rather than redefining.
 2. Repositories add **instruments**, not doctrine. A repository may introduce a template, a checklist, a scoring method or a worked example that operationalizes a doctrine. It may not introduce a variant definition.
 3. Altitude restatement is permitted; rule variation is not. Board, enterprise and task registers of the same doctrine must reduce to the same rule.
-4. Changes to a doctrine statement are versioned here and logged below, and the change is announced in [ECOSYSTEM.md](ECOSYSTEM.md)'s change log in the same commit series.
+4. Changes to a doctrine statement are versioned here and logged below, and the change is announced in the profile repository's [HISTORY.md](HISTORY.md) in the same commit series.
 5. Where a jurisdiction's law states something close to a doctrine, cite it as an analogue with a pinpoint, an as-at date and a status tag. Do not present the doctrine as law.
 6. Summary lines elsewhere in this account compress the doctrines. A compression copies a short form of section 8 verbatim or points to that section; nothing else is permitted.
 
@@ -129,6 +129,7 @@ A repository that compresses a doctrine copies one of the forms below verbatim, 
 
 ## Change log
 
+- v1.2.2 (2026-11-03, KST): section 7 item 4 names HISTORY.md, where the profile repository's change log now lives (ECOSYSTEM.md v2.2.0); no doctrine added, renamed or varied.
 - v1.2.1 (2026-10-20, KST): section 3.3, Colorado: the *xAI v. Weiser* stay is cited as *X.AI LLC v. Weiser*, No. 1:26-cv-01515 (D. Colo. Apr. 27, 2026) (minute order, ECF No. 24), its date and scope verified from the docket text on 20 October 2026 and its operative paragraph quoted; the signed order was not read (RDB-04). Opening banner no longer carries a drafting destination line (RDB-10); masthead spells out Korea Standard Time (RDB-11); one serial comma removed from the capitalization rule (RDB-12); the register note's closing reference to an internal process is replaced by the plain statement that the register is not a variant definition (RDB-06). Section 2, Altitude restatements in force: the book's Chapter 9 entry now records the section 8 list form of the five authorizer conditions, which the chapter uses in place of its former three-component restatement (BOOK-11). Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik. No doctrine added, none renamed, no rule varied; the section 8 short forms are unchanged.
 - v1.2.0 (2026-10-17, KST): section 8, Short forms, added: one sanctioned sentence form per doctrine, five list forms (the three tests, the four elements, the five authorizer conditions, the three attributes and the allocation lifecycle) and the pointer form; section 7 item 6 now requires a compression to copy a short form verbatim or point to section 8. Two serial commas in section 3.1 removed, wording otherwise unchanged. Found by the whole-account review of 15 October 2026 (doc section 1, item 1), session T3. No doctrine added, none renamed, no rule varied.
 - v1.1.2 (2026-10-15, KST): section 3.3 status tags corrected against primary texts read this day. Colorado: "Binding law" becomes "Enacted law, not yet in effect", with SB 26-189 (ch. 131, approved 14 May 2026), the 1 January 2027 effective and applicability date, the 6-1-1707(4) "except to the extent permitted under existing law" carve-out, the (7)(b) developer exception and the *xAI v. Weiser* stay. Vietnam: the Decision is named for what it is (the high-risk list under the AI Law), pinpointed to Article 1(2), dated in force 15 August 2026 and marked as read in translation. Found by the whole-account review of 15 October 2026 (doc §2; reviewer report 15, items A7 and A8). No doctrine added, none renamed, no rule varied.
