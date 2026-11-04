@@ -1,6 +1,6 @@
 # DOCTRINE.md
 
-**The rolldabones doctrine canon · v1.2.2 · 3 November 2026 (Korea Standard Time, KST)**
+**The rolldabones doctrine canon · v1.2.3 · 4 November 2026 (Korea Standard Time, KST)**
 
 **This file, beside [ECOSYSTEM.md](ECOSYSTEM.md), is the single normative statement of the three doctrines. [ECOSYSTEM.md](ECOSYSTEM.md) keeps its one-paragraph summary and points here. Every other repository uses these definitions exactly as stated and adds instruments, not doctrine.**
 
@@ -94,6 +94,8 @@ Where the subject is delegated authority, this account uses the principal-agent 
 
 **Capitalization.** *the Human* is a defined term in this account and denotes the named human owner of section 3, the bearer of Final Liability; it is capitalized in that sense, in section 5 where the disciplines address that person and in the closing line, while everywhere else, including the authorizer of section 2, *human* is the common noun, because section 4 makes the doctrines sequential and does not state that the authorizer and the owner are the same person.
 
+**Vernacular form.** *AOTL*, ass on the line, is the colloquial form of section 3 in this account. The question it asks is not whether a human sits in a loop but whose name is on the line before the run, which section 3.1 answers: named at specification, with naming afterwards the selection of a scapegoat. It replaces "human in the loop" in the author's usage, a phrase that pictures one person inside one process and has no referent where many agents act across many workflows at once. It is a register and not a short form under section 8: a compression never uses it, no instrument depends on it and no rule is varied by it. First used 4 November 2026 (KST), in the author's LinkedIn comment on, and repost of, a post proposing that the phrase be retired.
+
 ## 7. Use of this file
 
 1. This file is the only normative statement of the three doctrines in this account. Repositories link here rather than redefining.
@@ -129,6 +131,7 @@ A repository that compresses a doctrine copies one of the forms below verbatim, 
 
 ## Change log
 
+- v1.2.3 (2026-11-04, KST): section 6, Register note, gains the vernacular form: AOTL, ass on the line, the colloquial form of section 3 that the author uses in place of "human in the loop", recorded as a register and not a short form; section 8 unchanged. On Michael Paik's ruling of 4 November 2026, after his LinkedIn comment and repost commentary of that day. No doctrine added, none renamed, no rule varied.
 - v1.2.2 (2026-11-03, KST): section 7 item 4 names HISTORY.md, where the profile repository's change log now lives (ECOSYSTEM.md v2.2.0); no doctrine added, renamed or varied.
 - v1.2.1 (2026-10-20, KST): section 3.3, Colorado: the *xAI v. Weiser* stay is cited as *X.AI LLC v. Weiser*, No. 1:26-cv-01515 (D. Colo. Apr. 27, 2026) (minute order, ECF No. 24), its date and scope verified from the docket text on 20 October 2026 and its operative paragraph quoted; the signed order was not read (RDB-04). Opening banner no longer carries a drafting destination line (RDB-10); masthead spells out Korea Standard Time (RDB-11); one serial comma removed from the capitalization rule (RDB-12); the register note's closing reference to an internal process is replaced by the plain statement that the register is not a variant definition (RDB-06). Section 2, Altitude restatements in force: the book's Chapter 9 entry now records the section 8 list form of the five authorizer conditions, which the chapter uses in place of its former three-component restatement (BOOK-11). Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik. No doctrine added, none renamed, no rule varied; the section 8 short forms are unchanged.
 - v1.2.0 (2026-10-17, KST): section 8, Short forms, added: one sanctioned sentence form per doctrine, five list forms (the three tests, the four elements, the five authorizer conditions, the three attributes and the allocation lifecycle) and the pointer form; section 7 item 6 now requires a compression to copy a short form verbatim or point to section 8. Two serial commas in section 3.1 removed, wording otherwise unchanged. Found by the whole-account review of 15 October 2026 (doc section 1, item 1), session T3. No doctrine added, none renamed, no rule varied.
