@@ -1,6 +1,6 @@
 # Enterprise AI governance, risk management and compliance
 
-**v2.2.3 · 4 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
+**v2.2.4 · 8 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
 
 This account publishes the doctrines, methods, instruments and teaching materials of one practice, enterprise AI governance, risk management and compliance (GRC) that is evidence-led and auditable, across twenty content repositories mapped in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md).
 
@@ -29,6 +29,7 @@ One ladder, shared with the [AI Governance Academy](https://github.com/rolldabon
 | Duration | Offering | Instrument | Price |
 |---|---|---|---|
 | 2 hours | Executive Briefing | [AI-Governance-Academy, template 02](https://github.com/rolldabones/AI-Governance-Academy/blob/main/02-executive-briefing.md) | US$3,000 |
+| Half day | Executive Workshop, half day (executive leadership) | none published | by proposal |
 | 1 day | Executive Workshop (executive leadership) | [AI-Governance-Academy, template 03](https://github.com/rolldabones/AI-Governance-Academy/blob/main/03-executive-workshop.md) | US$7,500 |
 | 1 day | The AI Generalist (working professionals) | [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | by proposal |
 | 2 days | Practitioner Academy (the Slow AI Kitchen workshop is Day 2) | [AI-Governance-Academy, template 04](https://github.com/rolldabones/AI-Governance-Academy/blob/main/04-practitioner-academy.md) | US$12,500 |
@@ -57,7 +58,7 @@ The Slow AI Kitchen repository runs as a guided web application at https://kitch
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.2.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.2.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
