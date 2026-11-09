@@ -1,6 +1,6 @@
 # Enterprise AI governance, risk management and compliance
 
-**v2.2.4 · 8 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
+**v2.3.0 · 9 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
 
 This account publishes the doctrines, methods, instruments and teaching materials of one practice, enterprise AI governance, risk management and compliance (GRC) that is evidence-led and auditable, across twenty content repositories mapped in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md).
 
@@ -40,6 +40,8 @@ One ladder, shared with the [AI Governance Academy](https://github.com/rolldabon
 
 GRCnext™: [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot) and [RedCap-00](https://github.com/rolldabones/RedCap-00) are public and free; GRCnext™ advisory is on inquiry.
 
+An engagement on this ladder licenses the Client to use the materials it delivers in the Client's own operations, on the terms of the engagement agreement; any other commercial use is set out in [LICENSING.md](https://github.com/rolldabones/rolldabones/blob/main/LICENSING.md).
+
 ## Definitions
 
 **Spellbooks** are the reusable AI workflows, prompts and working habits that get real work done and keep it operable and maintainable (the term the [AI GRC Copilot](https://github.com/rolldabones/AI-GRC-Copilot) repository uses). **Tiny Servants** are narrow AI services with one purpose, clear boundaries and a named owner, which do one useful task well and then stop (first public use in [*Made to Hold*](https://redcaps.substack.com/p/made-to-hold), 28 July 2026).
@@ -56,9 +58,13 @@ A user's guide to this account, *The Handover*, is at https://redcaps.substack.c
 
 The Slow AI Kitchen repository runs as a guided web application at https://kitchen.grcskorea.com/, in English, Korean, Vietnamese and Japanese; the application states the Kitchen release its text follows, and the repository is the text of record.
 
+## License
+
+This profile repository is licensed under CC BY-NC-SA 4.0 ([LICENSE.md](LICENSE.md)). Commercial use, including a Client's use in its own operations, is set out in [LICENSING.md](LICENSING.md), which covers every repository in the account.
+
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.2.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.3.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
