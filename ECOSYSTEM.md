@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.3.1 · 9 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.3.2 · 9 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -55,7 +55,7 @@ Every instrument in the account, with its status under [ACCEPTANCE.md](ACCEPTANC
 | Instrument | Repository | Status |
 |---|---|---|
 | AI GRC Copilot | [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | Not accepted. Run T5 (18 October 2026) passed 13 of 15 cases; critical case C1 (no invented facts) failed, and C14 (house style) is a residual defect. |
-| AI Governance Academy, templates 01 to 08 | [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Not accepted. Run A6 (9 November 2026) of the v1.20.0 templates failed the critical case T09, the no-invention rule on its own, in which one letter gave the unknown decision date an owner, and passed 6 of the 8 other cases after review (T01 to T04, T06 and T08), below the 80 percent ACCEPTANCE.md (c) requires; T05 and T07 fail on the residual defects K4 and K5 and T09 on K9 and K10, listed in its tests.md. |
+| AI Governance Academy, templates 01 to 08 | [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Not accepted pending run A8: v1.20.3 changes rules in its templates 02 to 08 (K11 and template 02's word limit). Last accepted: v1.20.2, run A7 (9 November 2026), accepted with residuals: the critical case T09 and 7 of the 8 other cases passed after review (87.5 percent); T02 failed on its word limit. |
 | AI Impact Assessment Tool, block v1.4.3 | [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Accepted with residuals. Run R1 (26 October 2026) passed 9 of 10 cases on block v1.4.3, critical cases OV2 and OV7 among them; OV6 (evidence statuses) is a residual defect, to be fixed in the next block (known defect 5). |
 | Contract Mechanism Review Assistant | [Contract-Mechanism-Review-Assistant](https://github.com/rolldabones/Contract-Mechanism-Review-Assistant) | Not accepted. Run T5 (18 October 2026) passed every critical case but 9 of 13 others (69 percent, below 80), and C10 and C13 have pass conditions rewritten at v1.2.4 that no run has exercised. |
 | Definition of Done Interrogator | [definition-of-done](https://github.com/rolldabones/definition-of-done) | Not accepted. Run T5 (18 October 2026) passed 10 of 12 cases; critical case IR-09 (no invented facts) failed, and IR-07 is a residual defect. |
@@ -134,6 +134,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.3.1 (9 November 2026, KST).** Twenty content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.3, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.3.2 (9 November 2026, KST).** Twenty content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.3, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
