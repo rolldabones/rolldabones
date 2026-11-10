@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.3.6 · 10 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.3.7 · 10 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -40,7 +40,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 | Repository | Role in the set |
 |---|---|
 | [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards) | Board mandate, operating discipline and value in `handbook.md`, the jurisdiction guides (EU, US, Korea, Vietnam, Australia), Part 6 best practices and CURRENCY.md; where the assessment tools send their "verify with counsel" flags |
-| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing engagements (eight templates) and ten client-facing publications, among them *The Philosopher-King Test* and *The Mandate and the Switch*, each pointing to the instrument in this account that carries its argument |
+| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing engagements (eight templates) and eleven client-facing publications, among them *The Philosopher-King Test* and *Final Liability Rests with the Human: Board Reading Guide*, each pointing to the instrument in this account that carries its argument |
 | [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | One-day corporate workshop for working professionals: a facilitator guide, participant handout, tool map and builder primer covering LLM foundations, a repeatable prompting workflow, tool selection and the AI GRC minimum control set, with the three doctrines applied |
 
 ## Layer 4: Field studies
@@ -136,6 +136,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.3.6 (10 November 2026, KST).** Twenty-one content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.4, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.3.7 (10 November 2026, KST).** Twenty-one content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.4, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
