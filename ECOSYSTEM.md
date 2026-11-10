@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.3.4 · 10 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.3.5 · 10 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -18,6 +18,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 | [definition-of-done](https://github.com/rolldabones/definition-of-done) | The acceptance doctrine: how done is defined before work begins and confirmed before reliance, the depth work inside the Kitchen's Gates 1, 6 and 7 |
 | [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, with the instructions published as the text of record; formerly the Origami Workflow Guide custom GPT, retired 1 October 2026 |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine, with its two instruments, the AI Audit and Due Diligence Checklist and the AI GRC Master Reference |
+| [final-liability-rests-with-the-human-ko-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip) | The argument in Korean: the Korean edition of the book and its two instruments, a machine draft under the author's line review (초벌 번역, 저자 검토 중), with the English edition as the text of record |
 | [computational-drafting](https://github.com/rolldabones/computational-drafting) | Drafting layer: specifications that translate human and institutional intent into behavior across legal, organizational and technical interpreters, with the eight-element anatomy, interpreter map, hostile-case checklist, proof-carrying analysis record, two expositions (machine-readable rules, earned enforcement), four templates and a worked example |
 
 ## Layer 2: Assessment and decision tools
@@ -77,20 +78,21 @@ Doctrine (Layer 1) defines what governed means, the assessment tools (Layer 2) o
 4. definition-of-done closes the loop: no tool's output is accepted until a named human confirms it against tests defined before the work began, the depth work inside the Kitchen's Gates 1, 6 and 7.
 5. origami-method turns the definition into workflow-design discipline: its creases are Tolerances on inputs and outputs, its gates are Switches and its fold log is controlled change under audit.
 6. final-liability-rests-with-the-human-book-wip argues the Final Liability doctrine at length and supplies the AI Audit and Due Diligence Checklist and the AI GRC Master Reference against which an audit tests the chain.
-7. computational-drafting supplies the specification layer beneath the whole chain: the eight-element artifact that Informed Intent authorizes, the Origami Method folds into workflow, the Kitchen operates, the assessment tools interrogate and the Definition of Done accepts.
-8. Layer 2, AI-Impact-Assessment-Tool operationalizes the doctrine at the deployment decision: its kill-switch requirement is a GRCnext™ Switch, its decommission plan an Exit, its data flow narrative a Pipe, its thresholds Tolerances and its system inventory a Service.
-9. risk-informed-decision-making-prompt carries the same discipline into continuous decisions under uncertainty, leaving an auditable work product at each one.
-10. RedCap-00 tests whether the Pipes, Switches and Exits would actually execute under stress, within 72 hours.
-11. RedCap-01 makes decision boundaries into usable Tolerances and trigger-to-action links into Switches, testing whether ERM improves the decisions that determine objective achievement.
-12. master-prompt-for-in-house-legal-and-compliance runs the in-house legal and compliance work the chain generates under the same evidence discipline, holding substantive work until a human has stated the matter.
-13. AI-GRC-Copilot turns the doctrine into paperwork that proves itself, converting the organization's facts into the 30 artifacts whose owners, evidence and systems of record the Governance Test demands.
-14. AI-GRC-Master-List-of-Questions captures those facts once, in 17 sections, so the Copilot drafts from one answered input set.
-15. GRCnext-Copilot is the primitives run as an engine, scoring whether Pipes, Switches and Exits would actually execute within tolerance.
-16. Contract-Mechanism-Review-Assistant reads the agreements those Exits depend on, as risk-transfer mechanisms with evidence anchors and an uncertainty register.
-17. Layer 3, ai-governance-for-boards carries the doctrines to the board as mandate, operating discipline and jurisdiction guides and receives the "verify with counsel" flags the assessment tools raise.
-18. AI-Governance-Academy carries them to Clients as the engagement templates on the offerings ladder and the publications that argue the case.
-19. the-ai-generalist is the widest on-ramp, teaching the minimum control set to working professionals in a day.
-20. Layer 4, the-ungoverned-channel tests the doctrines against live systems and feeds corrections back into the tools.
+7. final-liability-rests-with-the-human-ko-wip carries the same argument and both instruments to Korean readers, as a machine draft under the author's line review until he signs the translation off.
+8. computational-drafting supplies the specification layer beneath the whole chain: the eight-element artifact that Informed Intent authorizes, the Origami Method folds into workflow, the Kitchen operates, the assessment tools interrogate and the Definition of Done accepts.
+9. Layer 2, AI-Impact-Assessment-Tool operationalizes the doctrine at the deployment decision: its kill-switch requirement is a GRCnext™ Switch, its decommission plan an Exit, its data flow narrative a Pipe, its thresholds Tolerances and its system inventory a Service.
+10. risk-informed-decision-making-prompt carries the same discipline into continuous decisions under uncertainty, leaving an auditable work product at each one.
+11. RedCap-00 tests whether the Pipes, Switches and Exits would actually execute under stress, within 72 hours.
+12. RedCap-01 makes decision boundaries into usable Tolerances and trigger-to-action links into Switches, testing whether ERM improves the decisions that determine objective achievement.
+13. master-prompt-for-in-house-legal-and-compliance runs the in-house legal and compliance work the chain generates under the same evidence discipline, holding substantive work until a human has stated the matter.
+14. AI-GRC-Copilot turns the doctrine into paperwork that proves itself, converting the organization's facts into the 30 artifacts whose owners, evidence and systems of record the Governance Test demands.
+15. AI-GRC-Master-List-of-Questions captures those facts once, in 17 sections, so the Copilot drafts from one answered input set.
+16. GRCnext-Copilot is the primitives run as an engine, scoring whether Pipes, Switches and Exits would actually execute within tolerance.
+17. Contract-Mechanism-Review-Assistant reads the agreements those Exits depend on, as risk-transfer mechanisms with evidence anchors and an uncertainty register.
+18. Layer 3, ai-governance-for-boards carries the doctrines to the board as mandate, operating discipline and jurisdiction guides and receives the "verify with counsel" flags the assessment tools raise.
+19. AI-Governance-Academy carries them to Clients as the engagement templates on the offerings ladder and the publications that argue the case.
+20. the-ai-generalist is the widest on-ramp, teaching the minimum control set to working professionals in a day.
+21. Layer 4, the-ungoverned-channel tests the doctrines against live systems and feeds corrections back into the tools.
 
 ## Published expositions
 
@@ -125,7 +127,7 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 - ai-governance-for-boards, not returned to AI-Impact-Assessment-Tool, definition-of-done and the-ai-generalist: five-neighbor cap; ai-governance-for-boards lists five nearest neighbors.
 - AI-Impact-Assessment-Tool, not returned to AI-GRC-Copilot, AI-GRC-Master-List-of-Questions, GRCnext-Copilot, origami-method and RedCap-01: five-neighbor cap; AI-Impact-Assessment-Tool lists five nearest neighbors.
 - definition-of-done, not returned to computational-drafting, Contract-Mechanism-Review-Assistant, final-liability-rests-with-the-human-book-wip and grc: five-neighbor cap; definition-of-done lists five nearest neighbors.
-- final-liability-rests-with-the-human-book-wip, not returned to grc: five-neighbor cap; final-liability-rests-with-the-human-book-wip lists five nearest neighbors.
+- final-liability-rests-with-the-human-book-wip, not returned to grc and final-liability-rests-with-the-human-ko-wip: five-neighbor cap; final-liability-rests-with-the-human-book-wip lists five nearest neighbors, and it links its Korean edition from its masthead and its Korean edition section instead (10 November 2026).
 - grc, not returned to AI-GRC-Copilot, AI-GRC-Master-List-of-Questions, computational-drafting, origami-method, RedCap-00, RedCap-01 and risk-informed-decision-making-prompt: five-neighbor cap; grc lists five nearest neighbors.
 - grc-workbook, not returned to AI-GRC-Master-List-of-Questions, definition-of-done, final-liability-rests-with-the-human-book-wip and the-ai-generalist: five-neighbor cap; grc-workbook lists five nearest neighbors.
 - origami-method, not returned to Contract-Mechanism-Review-Assistant and definition-of-done: five-neighbor cap; origami-method lists five nearest neighbors.
@@ -134,6 +136,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.3.4 (10 November 2026, KST).** Twenty content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.4, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.3.5 (10 November 2026, KST).** Twenty-one content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.4, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
