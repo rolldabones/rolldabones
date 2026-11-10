@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.3.5 · 10 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.3.6 · 10 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -121,21 +121,21 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 8. LICENSE.md is the filename convention for new repositories. Five repositories created in the 14 July 2026 cohort use LICENSE, which was a logged decision at the time and is left alone. Both filenames are valid to GitHub; neither is renamed retroactively.
 9. **Reciprocity.** A neighbor pointer is returned: a repository named as a nearest neighbor in another repository's "Part of the ecosystem" section names that repository back, or this file records why not on a line naming both repositories and the words "not returned". The usual reason is the five-neighbor cap of item 3. A one-way pointer that is neither returned nor recorded on that list breaks this item. Added 17 October 2026.
 
-**Pointers not returned (protocol item 9), as at 17 October 2026.** Each line names the repository that does not return a pointer, the repositories whose pointer it does not return and the reason. A line leaves this list when its pointer is returned.
+**Pointers not returned (protocol item 9), as at 10 November 2026.** Each line names the repository that does not return a pointer, the repositories whose pointer it does not return and the reason. A line leaves this list when its pointer is returned.
 
 - AI-Governance-Academy, not returned to AI-Impact-Assessment-Tool and origami-method: five-neighbor cap; AI-Governance-Academy lists five nearest neighbors.
 - ai-governance-for-boards, not returned to AI-Impact-Assessment-Tool, definition-of-done and the-ai-generalist: five-neighbor cap; ai-governance-for-boards lists five nearest neighbors.
-- AI-Impact-Assessment-Tool, not returned to AI-GRC-Copilot, AI-GRC-Master-List-of-Questions, GRCnext-Copilot, origami-method and RedCap-01: five-neighbor cap; AI-Impact-Assessment-Tool lists five nearest neighbors.
+- AI-Impact-Assessment-Tool, not returned to AI-GRC-Copilot, AI-GRC-Master-List-of-Questions, grc, origami-method and RedCap-01: five-neighbor cap; AI-Impact-Assessment-Tool lists five nearest neighbors.
 - definition-of-done, not returned to computational-drafting, Contract-Mechanism-Review-Assistant, final-liability-rests-with-the-human-book-wip and grc: five-neighbor cap; definition-of-done lists five nearest neighbors.
 - final-liability-rests-with-the-human-book-wip, not returned to grc and final-liability-rests-with-the-human-ko-wip: five-neighbor cap; final-liability-rests-with-the-human-book-wip lists five nearest neighbors, and it links its Korean edition from its masthead and its Korean edition section instead (10 November 2026).
-- grc, not returned to AI-GRC-Copilot, AI-GRC-Master-List-of-Questions, computational-drafting, origami-method, RedCap-00, RedCap-01 and risk-informed-decision-making-prompt: five-neighbor cap; grc lists five nearest neighbors.
+- grc, not returned to AI-GRC-Copilot, AI-GRC-Master-List-of-Questions, computational-drafting, origami-method, RedCap-00 and risk-informed-decision-making-prompt: five-neighbor cap; grc lists five nearest neighbors.
 - grc-workbook, not returned to AI-GRC-Master-List-of-Questions, definition-of-done, final-liability-rests-with-the-human-book-wip and the-ai-generalist: five-neighbor cap; grc-workbook lists five nearest neighbors.
 - origami-method, not returned to Contract-Mechanism-Review-Assistant and definition-of-done: five-neighbor cap; origami-method lists five nearest neighbors.
-- RedCap-01, not returned to AI-GRC-Master-List-of-Questions and GRCnext-Copilot: five-neighbor cap; RedCap-01 lists five nearest neighbors.
+- RedCap-01, not returned to AI-GRC-Master-List-of-Questions: five-neighbor cap; RedCap-01 lists five nearest neighbors.
 - slow-ai-kitchen, not returned to AI-Governance-Academy, ai-governance-for-boards, AI-GRC-Copilot, AI-Impact-Assessment-Tool, computational-drafting, Contract-Mechanism-Review-Assistant, final-liability-rests-with-the-human-book-wip and the-ungoverned-channel: five-neighbor cap; slow-ai-kitchen lists five nearest neighbors.
 
 ## Current state
 
-**As at v2.3.5 (10 November 2026, KST).** Twenty-one content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.4, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.3.6 (10 November 2026, KST).** Twenty-one content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.4, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
