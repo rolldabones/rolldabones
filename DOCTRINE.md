@@ -1,6 +1,6 @@
 # DOCTRINE.md
 
-**The rolldabones doctrine canon · v1.2.3 · 4 November 2026 (Korea Standard Time, KST)**
+**The rolldabones doctrine canon · v1.2.4 · 10 November 2026 (Korea Standard Time, KST)**
 
 **This file, beside [ECOSYSTEM.md](ECOSYSTEM.md), is the single normative statement of the three doctrines. [ECOSYSTEM.md](ECOSYSTEM.md) keeps its one-paragraph summary and points here. Every other repository uses these definitions exactly as stated and adds instruments, not doctrine.**
 
@@ -16,6 +16,8 @@ Slow AI is not a speed limit. It is a precondition. The three tests are conjunct
 
 The doctrine's operative consequence is that the right to operate follows from being governable. Where a jurisdiction expresses the same idea, it tends to express it as a documentation, retention and explanation duty.
 
+**Altitude restatements in force.** The book (Chapter 6) states the rule in the section 8 sentence form and then develops it in three components: Slow AI is a discipline rather than a setting; the discipline operates at the points where the system commits to a position the organization will have to defend; and the first of those points is scope. The book (Chapters 17 and 18) applies the rule at the drafting table and to the contract's clocks: the system is not deployed until the contract that governs it can be governed, explained and audited. Each reduces to this rule. None varies it.
+
 ## 2. Informed Intent
 
 **No AI system, and above all no AI agent, acts on the organization's behalf without prior authorization that specifies what it may do, on whose authority, within what boundaries and with what exit, given by a human who is in a position to give it.**
@@ -28,13 +30,15 @@ The doctrine has two limbs. Both are required, and they answer different questio
 
 The agentic case is the hard case and the reason the doctrine is stated at this strength. A system that plans across steps and calls tools will encounter states its authorizer never contemplated. The boundary and the exit are what make that survivable, and the five conditions are what make the human who set them answerable for having set them.
 
-**Altitude restatements in force.** ai-governance-for-boards states the instrument as five elements, drawing scope of action and human checkpoints out of boundaries. grc-workbook Module 10 states the authorizer's five conditions as a gate and tests them at the level of the action. The book (Chapter 9) states the authorizer's conditions in the section 8 list form (Knowledge, Evidence, Authority, Time, Permission) and traces the limb to informed consent, distinguishing the two by beneficiary. Each reduces to this rule. None varies it.
+**Altitude restatements in force.** ai-governance-for-boards states the instrument as five elements, drawing scope of action and human checkpoints out of boundaries. grc-workbook Module 10 states the authorizer's five conditions as a gate and tests them at the level of the action. The book (Chapter 9) states the authorizer's conditions in the section 8 list form (Knowledge, Evidence, Authority, Time, Permission) and traces the limb to informed consent, distinguishing the two by beneficiary. The book (Chapter 12) restates the five conditions at the altitude of the reviewer as the five components of agency: epistemic access (Evidence), interpretive competence (Knowledge), decisional authority (Authority), temporal room (Time) and organizational permission (Permission). The book (Appendix H, section 6) states the instrument for an agentic specification in the four elements, with forbidden strategies and escalation conditions drawn out of boundaries. Each reduces to this rule. None varies it.
 
 ## 3. Final Liability rests with the Human
 
 **Every material outcome produced by an AI system attaches to a named human owner with decision rights, oversight and the power to intervene. There is no such thing as an outcome the model is responsible for.**
 
 Note the three attributes. A name alone is not accountability; a person who is named but holds no decision rights, no oversight and no power to intervene is a nominee, and nominating one is worse than naming nobody because it manufactures the appearance of accountability. The doctrine refuses to allow the question of liability to be left open. It does not transfer liability to the system, and it cannot: systems are not liability-bearing entities.
+
+**Altitude restatements in force.** The book (Chapter 7) states one allocation of the named human: Final Liability attaches to the accountable executive named for each deployment; the General Counsel owns the design of the authority; engineering owns enforcement and evidence; internal audit assures the join between them; and the management body owns the risk appetite. The book (Chapter 14) restates the ratio of agents to human oversight as a threshold: Final Liability always attaches, and past the threshold the allocation is defective, because the named human can no longer exercise the three attributes. The book (Chapter 22) names a committee's chair, by role and incumbent, as the owner where a committee is the forum. Each reduces to this rule. None varies it.
 
 ### 3.1 The allocation lifecycle
 
@@ -131,6 +135,7 @@ A repository that compresses a doctrine copies one of the forms below verbatim, 
 
 ## Change log
 
+- v1.2.4 (2026-11-10, KST): sections 1, 2 and 3 record the book's fuller restatements as altitude restatements in force (book v1.12.0, decision D1 of the review of 10 November 2026): section 1 gains its first entry (Chapter 6's three components; Chapters 17 and 18 at the drafting table and the cadence); section 2 adds Chapter 12's five components of agency, mapped to the five authorizer conditions, and Appendix H's specification in the four elements; section 3 gains its first entry (Chapter 7's single allocation of the named human, Chapter 14's threshold restated as a defective allocation, Chapter 22's committee-chair rule). The book's passages that varied a rule are fixed in the book, not recorded here. Proposed with Claude, for Michael Paik's approval. No doctrine added, none renamed, no rule varied; the section 8 short forms are unchanged.
 - v1.2.3 (2026-11-04, KST): section 6, Register note, gains the vernacular form: AOTL, ass on the line, the colloquial form of section 3 that the author uses in place of "human in the loop", recorded as a register and not a short form; section 8 unchanged. On Michael Paik's ruling of 4 November 2026, after his LinkedIn comment and repost commentary of that day. No doctrine added, none renamed, no rule varied.
 - v1.2.2 (2026-11-03, KST): section 7 item 4 names HISTORY.md, where the profile repository's change log now lives (ECOSYSTEM.md v2.2.0); no doctrine added, renamed or varied.
 - v1.2.1 (2026-10-20, KST): section 3.3, Colorado: the *xAI v. Weiser* stay is cited as *X.AI LLC v. Weiser*, No. 1:26-cv-01515 (D. Colo. Apr. 27, 2026) (minute order, ECF No. 24), its date and scope verified from the docket text on 20 October 2026 and its operative paragraph quoted; the signed order was not read (RDB-04). Opening banner no longer carries a drafting destination line (RDB-10); masthead spells out Korea Standard Time (RDB-11); one serial comma removed from the capitalization rule (RDB-12); the register note's closing reference to an internal process is replaced by the plain statement that the register is not a variant definition (RDB-06). Section 2, Altitude restatements in force: the book's Chapter 9 entry now records the section 8 list form of the five authorizer conditions, which the chapter uses in place of its former three-component restatement (BOOK-11). Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik. No doctrine added, none renamed, no rule varied; the section 8 short forms are unchanged.
