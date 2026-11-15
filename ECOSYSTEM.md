@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.3.8 · 15 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.3.9 · 15 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -40,7 +40,8 @@ The paragraph above is the summary. The normative statement of the three doctrin
 | Repository | Role in the set |
 |---|---|
 | [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards) | Board mandate, operating discipline and value in `handbook.md`, the jurisdiction guides (EU, US, Korea, Vietnam, Australia), Part 6 best practices and CURRENCY.md; where the assessment tools send their "verify with counsel" flags |
-| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing engagements (eight templates) and eleven client-facing publications, among them *The Philosopher-King Test* and *Final Liability Rests with the Human: Board Reading Guide*, each pointing to the instrument in this account that carries its argument |
+| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing engagements (eight templates) and twelve client-facing publications, among them *The Philosopher-King Test* and *Final Liability Rests with the Human: Board Reading Guide*, each pointing to the instrument in this account that carries its argument |
+| [AI-Governance-Academy-ko-wip](https://github.com/rolldabones/AI-Governance-Academy-ko-wip) | The Academy's publications in Korean: the parallel Korean repository, opening with *The Evidence and the Exit*, a machine draft under the author's line review (초벌 번역, 저자 검토 중), with the English edition as the text of record |
 | [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | One-day corporate workshop for working professionals: a facilitator guide, participant handout, tool map and builder primer covering LLM foundations, a repeatable prompting workflow, tool selection and the AI GRC minimum control set, with the three doctrines applied |
 
 ## Layer 4: Field studies
@@ -91,8 +92,9 @@ Doctrine (Layer 1) defines what governed means, the assessment tools (Layer 2) o
 17. Contract-Mechanism-Review-Assistant reads the agreements those Exits depend on, as risk-transfer mechanisms with evidence anchors and an uncertainty register.
 18. Layer 3, ai-governance-for-boards carries the doctrines to the board as mandate, operating discipline and jurisdiction guides and receives the "verify with counsel" flags the assessment tools raise.
 19. AI-Governance-Academy carries them to Clients as the engagement templates on the offerings ladder and the publications that argue the case.
-20. the-ai-generalist is the widest on-ramp, teaching the minimum control set to working professionals in a day.
-21. Layer 4, the-ungoverned-channel tests the doctrines against live systems and feeds corrections back into the tools.
+20. AI-Governance-Academy-ko-wip carries those publications to Korean readers, as a machine draft under the author's line review until he signs the translation off.
+21. the-ai-generalist is the widest on-ramp, teaching the minimum control set to working professionals in a day.
+22. Layer 4, the-ungoverned-channel tests the doctrines against live systems and feeds corrections back into the tools.
 
 ## Published expositions
 
@@ -123,7 +125,7 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 **Pointers not returned (protocol item 9), as at 10 November 2026.** Each line names the repository that does not return a pointer, the repositories whose pointer it does not return and the reason. A line leaves this list when its pointer is returned.
 
-- AI-Governance-Academy, not returned to AI-Impact-Assessment-Tool and origami-method: five-neighbor cap; AI-Governance-Academy lists five nearest neighbors.
+- AI-Governance-Academy, not returned to AI-Governance-Academy-ko-wip, AI-Impact-Assessment-Tool and origami-method: five-neighbor cap; AI-Governance-Academy lists five nearest neighbors, and it links its Korean edition from the masthead of *The Evidence and the Exit* and from PUBLICATIONS.md instead (15 November 2026).
 - ai-governance-for-boards, not returned to AI-Impact-Assessment-Tool, definition-of-done and the-ai-generalist: five-neighbor cap; ai-governance-for-boards lists five nearest neighbors.
 - AI-Impact-Assessment-Tool, not returned to AI-GRC-Copilot, AI-GRC-Master-List-of-Questions, grc, origami-method and RedCap-01: five-neighbor cap; AI-Impact-Assessment-Tool lists five nearest neighbors.
 - definition-of-done, not returned to computational-drafting, Contract-Mechanism-Review-Assistant, final-liability-rests-with-the-human-book-wip and grc: five-neighbor cap; definition-of-done lists five nearest neighbors.
@@ -136,6 +138,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.3.8 (15 November 2026, KST).** Twenty-one content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.4, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.3.9 (15 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.4, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
