@@ -1,12 +1,12 @@
 # LICENSING
 
-**How the material in this account may be used · v1.0.0 · 9 November 2026 (Korea Standard Time, KST)**
+**How the material in this account may be used · v1.0.1 · 16 November 2026 (Korea Standard Time, KST)**
 
 **This file states once what the licenses in this account permit, where a Client's use may need more and how to ask. Each repository's README points here in one line. The legal code in each repository's LICENSE file governs. This file is orientation and not legal advice; it varies no license.**
 
 ## The two licenses
 
-Eighteen of the twenty-one public repositories, this profile repository among them, are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0). Three are licensed under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0):
+Twenty of the twenty-three public repositories, this profile repository among them, are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0). Three are licensed under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0):
 
 | Repository | License |
 |---|---|

@@ -1,10 +1,10 @@
 # DOCTRINE.md
 
-**The rolldabones doctrine canon · v1.2.4 · 10 November 2026 (Korea Standard Time, KST)**
+**The rolldabones doctrine canon · v1.2.5 · 16 November 2026 (Korea Standard Time, KST)**
 
 **This file, beside [ECOSYSTEM.md](ECOSYSTEM.md), is the single normative statement of the three doctrines. [ECOSYSTEM.md](ECOSYSTEM.md) keeps its one-paragraph summary and points here. Every other repository uses these definitions exactly as stated and adds instruments, not doctrine.**
 
-Three doctrines run through this account. They are stated here once, in normative form, so that twenty-one repositories do not each drift their own version. Where a repository needs a formulation at a different altitude, board, enterprise or task, it may restate the doctrine in its own register. It may not restate it into a different rule.
+Three doctrines run through this account. They are stated here once, in normative form, so that the twenty-three public repositories, twenty-two content repositories and this profile, do not each drift their own version. Where a repository needs a formulation at a different altitude, board, enterprise or task, it may restate the doctrine in its own register. It may not restate it into a different rule.
 
 ---
 
@@ -135,6 +135,7 @@ A repository that compresses a doctrine copies one of the forms below verbatim, 
 
 ## Change log
 
+- v1.2.5 (2026-11-16, KST): the opening paragraph counts the account as it stands, twenty-three public repositories (twenty-two content repositories and this profile), in place of "twenty-one repositories", stale since the account grew; no doctrine added, none renamed, no rule varied, section 8 unchanged. On Michael Paik's ruling of 15 November 2026.
 - v1.2.4 (2026-11-10, KST): sections 1, 2 and 3 record the book's fuller restatements as altitude restatements in force (book v1.12.0, decision D1 of the review of 10 November 2026): section 1 gains its first entry (Chapter 6's three components; Chapters 17 and 18 at the drafting table and the cadence); section 2 adds Chapter 12's five components of agency, mapped to the five authorizer conditions, and Appendix H's specification in the four elements; section 3 gains its first entry (Chapter 7's single allocation of the named human, Chapter 14's threshold restated as a defective allocation, Chapter 22's committee-chair rule). The book's passages that varied a rule are fixed in the book, not recorded here. Proposed with Claude, for Michael Paik's approval. No doctrine added, none renamed, no rule varied; the section 8 short forms are unchanged.
 - v1.2.3 (2026-11-04, KST): section 6, Register note, gains the vernacular form: AOTL, ass on the line, the colloquial form of section 3 that the author uses in place of "human in the loop", recorded as a register and not a short form; section 8 unchanged. On Michael Paik's ruling of 4 November 2026, after his LinkedIn comment and repost commentary of that day. No doctrine added, none renamed, no rule varied.
 - v1.2.2 (2026-11-03, KST): section 7 item 4 names HISTORY.md, where the profile repository's change log now lives (ECOSYSTEM.md v2.2.0); no doctrine added, renamed or varied.
