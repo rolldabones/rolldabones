@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.3.11 · 16 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.3.12 · 16 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -14,7 +14,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 |---|---|
 | [grc](https://github.com/rolldabones/grc) | The foundation: the working method on the OCEG (Open Compliance and Ethics Group) GRC Capability Model 3.5 spine (Principled Performance, operating cycle, 20 elements), with four build guides, a 21-prompt pack, six operating templates and FOUR-FRAMES.md for geopolitical sense-making |
 | [grc-workbook](https://github.com/rolldabones/grc-workbook) | The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II |
-| [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: the twelve-step governed AI methodology, with the Enterprise AI Architecture Primer, six derivation modules (Karpathy's, Newton's, Coetzee's, Mondrian's, Wiszowaty's and My Kitchen), the Service Record, the Consultant Workbook, Take-Out, Delivery & Vending Machines, Lean AI (the cost of one accepted outcome; a work in progress) and the guided web app at [kitchen.grcskorea.com](https://kitchen.grcskorea.com/) |
+| [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: the twelve-step governed AI methodology with the Enterprise AI Architecture Primer, six derivation modules, the Service Record, the Consultant Workbook, Take-Out, Delivery & Vending Machines, Lean AI (a work in progress) and the guided web app at [kitchen.grcskorea.com](https://kitchen.grcskorea.com/) |
 | [definition-of-done](https://github.com/rolldabones/definition-of-done) | The acceptance doctrine: how done is defined before work begins and confirmed before reliance, the depth work inside the Kitchen's Gates 1, 6 and 7 |
 | [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, with the instructions published as the text of record; formerly the Origami Workflow Guide custom GPT, retired 1 October 2026 |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine, with its two instruments, the AI Audit and Due Diligence Checklist and the AI GRC Master Reference |
@@ -25,7 +25,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 
 | Repository | Role in the set |
 |---|---|
-| [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Lifecycle impact assessment against the EU AI Act, ISO/IEC 42001 and the National Institute of Standards and Technology AI Risk Management Framework, mapped by topic to ISO/IEC 42005 (clauses not cited); the Informed Intent gate; formerly the AI Impact Assessment Assistant custom GPT, retired 1 October 2026 |
+| [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Lifecycle impact assessment against the EU AI Act, ISO/IEC 42001 and the National Institute of Standards and Technology AI Risk Management Framework, mapped by topic to ISO/IEC 42005 (clauses not cited), with the Informed Intent gate; formerly a custom GPT |
 | [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Continuous risk-informed decision making under uncertainty; auditable work product |
 | [RedCap-00](https://github.com/rolldabones/RedCap-00) | Operational-optionality self-check: can the organization execute five critical moves within 72 hours under disruption; evidence-capped, conservative scoring; with a companion provider exit drill; formerly the RedCap-00 custom GPT, retired 1 October 2026 |
 | [RedCap-01](https://github.com/rolldabones/RedCap-01) | Objective-to-Risk Alignment Check: an evidence-oriented diagnostic testing whether enterprise risk management (ERM) improves decisions that determine objective achievement (*From Guidance to Action*, Committee of Sponsoring Organizations of the Treadway Commission, 2026); formerly the RedCap-01 custom GPT, retired 1 October 2026 |
@@ -138,6 +138,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.3.11 (16 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.5, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.3.12 (16 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.5, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
