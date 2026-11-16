@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.3.12 · 16 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.3.13 · 16 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -52,7 +52,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 
 ## Instrument status
 
-Every instrument in the account, with its status under [ACCEPTANCE.md](ACCEPTANCE.md) as at 27 October 2026 (KST). Four instruments are accepted at their published text: the two tested grc prompts, RedCap-00 and, with residuals, the AI Impact Assessment Tool and the GRCnext™ Copilot main prompt on claude-opus-5-5. Each status is the one its tests file and README carry; a status changes only with a logged run or a change of rule, recorded there first.
+Every instrument in the account, with its status under [ACCEPTANCE.md](ACCEPTANCE.md). The table records each instrument's latest acceptance status, with the run that set it and its date, and any residuals or model restriction. Each status is the one its tests file and README carry; a status changes only with a logged run or a change of rule, recorded there first.
 
 | Instrument | Repository | Status |
 |---|---|---|
@@ -138,6 +138,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.3.12 (16 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.5, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.3.13 (16 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.5, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
