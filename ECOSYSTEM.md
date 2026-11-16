@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.3.13 · 16 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.3.14 · 16 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -64,9 +64,9 @@ Every instrument in the account, with its status under [ACCEPTANCE.md](ACCEPTANC
 | GRCnext™ Copilot, main prompt | [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot) | Accepted with residuals on claude-opus-5-5. Run R2 (27 October 2026) of the v2.7.0 main prompt passed all 12 critical cases and 13 of the 14 others; SC2 (no owner or target date on a conversion action) is a residual, accepted model behavior. Not accepted on claude-sonnet-5-5: critical case A6 failed in the same run. The long-form and compact editions carry no acceptance, and the advisory tools' run of 13 October 2026 (tests/evaluation-set/) is not yet read against ACCEPTANCE.md and carries no acceptance. |
 | grc capability prompts | [grc](https://github.com/rolldabones/grc) | Accepted. Run T5 (18 October 2026) passed both cases, G1 and G2, on prompts A2 and A4; neither is critical. The other 19 prompts in 03-prompts/ have no case and carry no acceptance. |
 | Master prompt v2.1 | [master-prompt-for-in-house-legal-and-compliance](https://github.com/rolldabones/master-prompt-for-in-house-legal-and-compliance) | Not accepted. In the run of 18 October 2026 critical guardrail cases G-03 and G-06 failed on claude-opus-5-5 and G-06 on claude-sonnet-5-5; mode tests passed 6 and 5 of 10. |
-| Origami Method, candidate v3.1 | [origami-method](https://github.com/rolldabones/origami-method) | Not accepted. Run 3 (18 October 2026): critical cases RS-15 and RS-17 (the decline rule) failed, and RS-03, RS-07 and RS-09 were not exercised. |
+| Origami Method, candidate v4.2 | [origami-method](https://github.com/rolldabones/origami-method) | Accepted with residuals on claude-opus-5-5. Run 7 (16 November 2026) of candidate v4.2 passed all eight critical cases, RS-02 on the Human reviewer's ruling, and 8 of the 9 others; RS-08 (the data floor not restated) is a residual defect. |
 | RedCap-00, block v1.2.4 with the reference.md of v1.2.6 | [RedCap-00](https://github.com/rolldabones/RedCap-00) | Accepted. Run R2 (26 October 2026) passed all 26 cases, critical cases S1 to S4 among them, on block v1.2.4 with the reference.md of v1.2.6, in which K1 is closed (section 2 counts top-level bullets only). |
-| RedCap-01 | [RedCap-01](https://github.com/rolldabones/RedCap-01) | Not accepted. Run T5 (18 October 2026) passed 10 of 12 cases; critical case T4 (no invented facts) failed, and T10 is an instrument defect (D2). |
+| RedCap-01, block v1.3.0 | [RedCap-01](https://github.com/rolldabones/RedCap-01) | Not accepted. Run 20261116-R4 (16 November 2026) of block v1.3.0 passed 10 of 13 cases; critical case T4 (no invented facts) failed on one unlabeled inferred absence (D3, model behavior). |
 | Risk-Informed Decision Making prompt v1.7.0 | [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Not accepted. Run R1 (26 October 2026) of the published prompt failed both cases after review, RI-01 and RI-02, on the open defects K1 and K3. |
 
 ## How the layers connect
@@ -138,6 +138,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.3.13 (16 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.5, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.3.14 (16 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.5, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
