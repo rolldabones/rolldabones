@@ -1,6 +1,6 @@
 # Enterprise AI governance, risk management and compliance
 
-**v2.4.0 · 17 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
+**v2.4.1 · 17 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
 
 This account publishes the doctrines, methods, instruments and teaching materials of one practice, enterprise AI governance, risk management and compliance (GRC) that is evidence-led and auditable, across twenty-two content repositories mapped in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md).
 
@@ -64,6 +64,8 @@ On 30 November 2022 ChatGPT was introduced to the world. I was then an executive
 
 One paper says what it adds up to: [*The Boundary and the Limit: Effectiveness, Lean AI and the Theory of the Governed Firm*](https://github.com/rolldabones/AI-Governance-Academy/blob/main/the-boundary-and-the-limit.md). Its method fits in a sentence: the Future is in the Past. The questions enterprise AI raises are older than AI, and the answers still hold once one fact changes: an AI agent takes direction and uses discretion without being employed. The paper reads those answers at their sources, in the order I learned them (economics, operations management, business and law), and shows which repository here carries each one. The direction it names is [Lean AI](https://github.com/rolldabones/slow-ai-kitchen/blob/main/lean-ai.md): the power to stop comes first, and then only the outcomes that someone will accept.
 
+The paper also has a graphic novel, [*Can your Reach exceed your Grasp?*](https://drive.google.com/file/d/1BQz83Q6iR2-AURN4H84Ed9ZNWqueIvm5/view), adapted and drawn by Claude under my direction.
+
 The paper is dedicated to Jerry Evensky, who opened my eyes to economics at Syracuse in 1988.
 
 ## License
@@ -72,7 +74,7 @@ This profile repository is licensed under CC BY-NC-SA 4.0 ([LICENSE.md](LICENSE.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.4.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.4.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
