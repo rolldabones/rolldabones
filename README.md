@@ -1,6 +1,6 @@
 # Enterprise AI governance, risk management and compliance
 
-**v2.3.14 · 16 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
+**v2.4.0 · 17 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
 
 This account publishes the doctrines, methods, instruments and teaching materials of one practice, enterprise AI governance, risk management and compliance (GRC) that is evidence-led and auditable, across twenty-two content repositories mapped in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md).
 
@@ -58,13 +58,21 @@ A user's guide to this account, *The Handover*, is at https://redcaps.substack.c
 
 The Slow AI Kitchen repository runs as a guided web application at https://kitchen.grcskorea.com/, in English, Korean, Vietnamese and Japanese; the application states the Kitchen release its text follows, and the repository is the text of record.
 
+## Where this account comes from
+
+On 30 November 2022 ChatGPT was introduced to the world. I was then an executive at a specialty steels conglomerate in South Korea, in charge of legal, compliance and trade risk management. I quit. In the four years since I have been a user, then a builder, then an auditor and now an architect of AI systems. This account is the record of that work: what held, what failed and what I mean to avoid.
+
+One paper says what it adds up to: [*The Boundary and the Limit: Effectiveness, Lean AI and the Theory of the Governed Firm*](https://github.com/rolldabones/AI-Governance-Academy/blob/main/the-boundary-and-the-limit.md). Its method fits in a sentence: the Future is in the Past. The questions enterprise AI raises are older than AI, and the answers still hold once one fact changes: an AI agent takes direction and uses discretion without being employed. The paper reads those answers at their sources, in the order I learned them (economics, operations management, business and law), and shows which repository here carries each one. The direction it names is [Lean AI](https://github.com/rolldabones/slow-ai-kitchen/blob/main/lean-ai.md): the power to stop comes first, and then only the outcomes that someone will accept.
+
+The paper is dedicated to Jerry Evensky, who opened my eyes to economics at Syracuse in 1988.
+
 ## License
 
 This profile repository is licensed under CC BY-NC-SA 4.0 ([LICENSE.md](LICENSE.md)). Commercial use, including a Client's use in its own operations, is set out in [LICENSING.md](LICENSING.md), which covers every repository in the account.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.3.14. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.4.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
