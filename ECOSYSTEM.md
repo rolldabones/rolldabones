@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.4.2 · 18 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.4.3 · 19 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -14,7 +14,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 |---|---|
 | [grc](https://github.com/rolldabones/grc) | The foundation: the working method on the OCEG (Open Compliance and Ethics Group) GRC Capability Model 3.5 spine (Principled Performance, operating cycle, 20 elements), with four build guides, a 21-prompt pack, six operating templates and FOUR-FRAMES.md for geopolitical sense-making |
 | [grc-workbook](https://github.com/rolldabones/grc-workbook) | The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II |
-| [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: the twelve-step governed AI methodology with the Enterprise AI Architecture Primer, six derivation modules, the Service Record, the Consultant Workbook, Take-Out, Delivery & Vending Machines, Lean AI (a work in progress) and the guided web app at [kitchen.grcskorea.com](https://kitchen.grcskorea.com/) |
+| [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen) | The method: the twelve-step governed AI methodology with the Enterprise AI Architecture Primer, six derivation modules, the Consultant Workbook, Take-Out, Delivery & Vending Machines, Lean AI, its book and Lean Tiny Servants (in progress) and the web app at [kitchen.grcskorea.com](https://kitchen.grcskorea.com/) |
 | [definition-of-done](https://github.com/rolldabones/definition-of-done) | The acceptance doctrine: how done is defined before work begins and confirmed before reliance, the depth work inside the Kitchen's Gates 1, 6 and 7 |
 | [origami-method](https://github.com/rolldabones/origami-method) | The workflow discipline: a stage-gated method for designing repeatable, safe AI workflows through creases, gates and folds, with the instructions published as the text of record; formerly the Origami Workflow Guide custom GPT, retired 1 October 2026 |
 | [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) | The argument: the book manuscript developing the Final Liability doctrine, with its two instruments, the AI Audit and Due Diligence Checklist and the AI GRC Master Reference |
@@ -139,6 +139,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.4.2 (18 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.5, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.4.3 (19 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.5, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
