@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.4.6 · 21 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.4.7 · 23 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -40,7 +40,7 @@ The paragraph above is the summary. The normative statement of the three doctrin
 | Repository | Role in the set |
 |---|---|
 | [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards) | Board mandate, operating discipline and value in `handbook.md`, the jurisdiction guides (EU, US, Korea, Vietnam, Australia), Part 6 best practices and CURRENCY.md; where the assessment tools send their "verify with counsel" flags |
-| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing engagements (eight templates) and fifteen client-facing publications, among them *The Boundary and the Limit* and *Final Liability Rests with the Human: Board Reading Guide*, each pointing to the instrument that carries its argument |
+| [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Prompt template pack for client-facing engagements (eight templates) and seventeen client-facing publications, among them *The Boundary and the Limit* and *Final Liability Rests with the Human: Board Reading Guide*, each pointing to the instrument that carries its argument |
 | [AI-Governance-Academy-ko-wip](https://github.com/rolldabones/AI-Governance-Academy-ko-wip) | The Academy's publications in Korean: the parallel Korean repository, opening with *The Evidence and the Exit*, a machine draft under the author's line review (초벌 번역, 저자 검토 중), with the English edition as the text of record |
 | [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | One-day corporate workshop for working professionals: a facilitator guide, participant handout, tool map and builder primer covering LLM foundations, a repeatable prompting workflow, tool selection and the AI GRC minimum control set, with the three doctrines applied |
 
@@ -57,8 +57,8 @@ Every instrument in the account, with its status under [ACCEPTANCE.md](ACCEPTANC
 | Instrument | Repository | Status |
 |---|---|---|
 | AI GRC Copilot | [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | Not accepted. Run T5 (18 October 2026) passed 13 of 15 cases; critical case C1 (no invented facts) failed, and C14 (house style) is a residual defect. |
-| AI Governance Academy, templates 01 to 08 | [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Accepted with residuals. Run A8 (9 November 2026) of the v1.20.3 templates passed the critical case T09 and 7 of the 8 other cases after review (87.5 percent); T02 failed on one sample that stated a current state of the Client the Profile Block does not give (K5, accepted model behavior). |
-| AI Impact Assessment Tool, block v1.4.3 | [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Accepted with residuals. Run R1 (26 October 2026) passed 9 of 10 cases on block v1.4.3, critical cases OV2 and OV7 among them; OV6 (evidence statuses) is a residual defect, to be fixed in the next block (known defect 5). |
+| AI Governance Academy, templates 01 to 08 | [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy) | Not accepted; last accepted run A8, with residuals. Version 1.28.0 (23 November 2026) adds to templates 02 to 08 the rule that a principle defined or glossed uses its DOCTRINE.md section 8 form verbatim (K12); run A9 is due on 26 November 2026. Run A8 (9 November 2026) of the v1.20.3 templates passed the critical case T09 and 7 of the 8 other cases after review (87.5 percent); T02 failed on one sample (K5, accepted model behavior). |
+| AI Impact Assessment Tool, candidate block v1.5.0 | [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Not accepted: candidate block v1.5.0 changes rules and has no logged run; suite aiia-v150 is due on 26 November 2026. Last accepted block v1.4.3, with residuals, run R1: run R1 (26 October 2026) passed 9 of 10 cases on block v1.4.3, critical cases OV2 and OV7 among them; OV6 (evidence statuses) is a residual defect, to be fixed in the next block (known defect 5). |
 | AI-Assisted Compliance Officer v5.0 | [master-prompt-for-in-house-legal-and-compliance](https://github.com/rolldabones/master-prompt-for-in-house-legal-and-compliance) | Not accepted. No run of the published text is logged: the 15 cases have had one developer run, made on the last draft before publication and scored in the drafting session. |
 | Contract Mechanism Review Assistant | [Contract-Mechanism-Review-Assistant](https://github.com/rolldabones/Contract-Mechanism-Review-Assistant) | Accepted with residuals on claude-opus-5-5. Run V140 (21 November 2026) of the published block passed the four critical cases and 11 of the 13 others (84.6 percent); C2 (One-Page Summary positions without a quote, K12) is a residual defect to be fixed in the next block, and C3 (two labeling slips) is accepted model behavior. |
 | Definition of Done Interrogator | [definition-of-done](https://github.com/rolldabones/definition-of-done) | Not accepted. Run T5 (18 October 2026) passed 10 of 12 cases; critical case IR-09 (no invented facts) failed, and IR-07 is a residual defect. |
@@ -68,7 +68,7 @@ Every instrument in the account, with its status under [ACCEPTANCE.md](ACCEPTANC
 | Origami Method, candidate v4.2 | [origami-method](https://github.com/rolldabones/origami-method) | Accepted with residuals on claude-opus-5-5. Run 7 (16 November 2026) of candidate v4.2 passed all eight critical cases, RS-02 on the Human reviewer's ruling, and 8 of the 9 others; RS-08 (the data floor not restated) is a residual defect. |
 | RedCap-00, block v1.2.4 with the reference.md of v1.2.6 | [RedCap-00](https://github.com/rolldabones/RedCap-00) | Accepted. Run R2 (26 October 2026) passed all 26 cases, critical cases S1 to S4 among them, on block v1.2.4 with the reference.md of v1.2.6, in which K1 is closed (section 2 counts top-level bullets only). |
 | RedCap-01, block v1.3.0 | [RedCap-01](https://github.com/rolldabones/RedCap-01) | Not accepted. Run 20261116-R4 (16 November 2026) of block v1.3.0 passed 10 of 13 cases; critical case T4 (no invented facts) failed on one unlabeled inferred absence (D3, model behavior). |
-| Risk-Informed Decision Making prompt v1.7.0 | [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Not accepted. Run R1 (26 October 2026) of the published prompt failed both cases after review, RI-01 and RI-02, on the open defects K1 and K3. |
+| Risk-Informed Decision Making prompt v1.8.0 | [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Not accepted; prompt v1.8.0 has no logged run; run due 26 November 2026 (Test Thursday). |
 
 ## How the layers connect
 
@@ -82,7 +82,7 @@ Doctrine (Layer 1) defines what governed means, the assessment tools (Layer 2) o
 6. final-liability-rests-with-the-human-book-wip argues the Final Liability doctrine at length and supplies the AI Audit and Due Diligence Checklist and the AI GRC Master Reference against which an audit tests the chain.
 7. final-liability-rests-with-the-human-ko-wip carries the same argument and both instruments to Korean readers, as a machine draft under the author's line review until he signs the translation off.
 8. computational-drafting supplies the specification layer beneath the whole chain: the eight-element artifact that Informed Intent authorizes, the Origami Method folds into workflow, the Kitchen operates, the assessment tools interrogate and the Definition of Done accepts.
-9. Layer 2, AI-Impact-Assessment-Tool operationalizes the doctrine at the deployment decision: its kill-switch requirement is a GRCnext™ Switch, its decommission plan an Exit, its data flow narrative a Pipe, its thresholds Tolerances and its system inventory a Service.
+9. Layer 2, AI-Impact-Assessment-Tool operationalizes the doctrine at the deployment decision: its kill-switch requirement corresponds by topic to a GRCnext™ Switch, its decommission plan to an Exit, its data flow narrative to a Pipe, its thresholds to Tolerances and its system inventory to a Service, a correspondence stated and not built into the block.
 10. risk-informed-decision-making-prompt carries the same discipline into continuous decisions under uncertainty, leaving an auditable work product at each one.
 11. RedCap-00 tests whether the Pipes, Switches and Exits would actually execute under stress, within 72 hours.
 12. RedCap-01 makes decision boundaries into usable Tolerances and trigger-to-action links into Switches, testing whether ERM improves the decisions that determine objective achievement.
@@ -139,6 +139,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.4.6 (21 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.5, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.4.7 (23 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.6, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
