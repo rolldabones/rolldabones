@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.4.7 · 23 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.4.8 · 23 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -68,7 +68,7 @@ Every instrument in the account, with its status under [ACCEPTANCE.md](ACCEPTANC
 | Origami Method, candidate v4.2 | [origami-method](https://github.com/rolldabones/origami-method) | Accepted with residuals on claude-opus-5-5. Run 7 (16 November 2026) of candidate v4.2 passed all eight critical cases, RS-02 on the Human reviewer's ruling, and 8 of the 9 others; RS-08 (the data floor not restated) is a residual defect. |
 | RedCap-00, block v1.2.4 with the reference.md of v1.2.6 | [RedCap-00](https://github.com/rolldabones/RedCap-00) | Accepted. Run R2 (26 October 2026) passed all 26 cases, critical cases S1 to S4 among them, on block v1.2.4 with the reference.md of v1.2.6, in which K1 is closed (section 2 counts top-level bullets only). |
 | RedCap-01, block v1.3.0 | [RedCap-01](https://github.com/rolldabones/RedCap-01) | Not accepted. Run 20261116-R4 (16 November 2026) of block v1.3.0 passed 10 of 13 cases; critical case T4 (no invented facts) failed on one unlabeled inferred absence (D3, model behavior). |
-| Risk-Informed Decision Making prompt v1.8.0 | [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Not accepted; prompt v1.8.0 has no logged run; run due 26 November 2026 (Test Thursday). |
+| Risk-Informed Decision Making prompt v1.9.0 | [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Not accepted; prompt v1.9.0 has no logged run; run due 26 November 2026 (Test Thursday). |
 
 ## How the layers connect
 
@@ -139,6 +139,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.4.7 (23 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.6, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.4.8 (23 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository. [DOCTRINE.md](DOCTRINE.md), at v1.2.6, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
