@@ -1,6 +1,6 @@
 # ACCEPTANCE
 
-**When an instrument in this account is accepted · v1.1.0 · 16 November 2026 (Korea Standard Time, KST)**
+**When an instrument in this account is accepted · v1.2.0 · 26 November 2026 (Korea Standard Time, KST)**
 
 An instrument here is a published text that runs as the system prompt of a current assistant: an instruction block, a prompt or a set of templates. Each one carries a tests file with cases derived from its own rules and a record of every logged run. This file is the one rule those tests files are read under. A tests file states its cases, its critical cases, its run record and its status; it no longer states an acceptance rule of its own. The rules the tests files carried before 26 October 2026 stay in them as the record of the runs they were applied to.
 
@@ -33,8 +33,19 @@ Evaluations matter: an instrument is only as reliable as the logged run behind i
 
 Acceptance is a finding about one text on one model on one date, scored by a different model and reviewed by the author. LLM scoring is developer testing, not independent assurance. Acceptance is not a certification, it does not transfer to another model, and it does not replace the human check each instrument requires before its output is relied on.
 
+## From 26 November 2026
+
+Scheduled acceptance testing ended on 26 November 2026 (KST), on Michael Paik's ruling of that day. The rule above is unchanged and still decides what a run shows. What changed is when a run is made:
+
+- **A status is the last test.** Each instrument's status names its last logged run, with the date and the model, and stays as it reads. No status was changed for the archive.
+- **An archived instrument is not run again.** Its status is a statement about one text on one model on one date and nothing later.
+- **An instrument in a maintained repository changes only with a run logged that day.** A changed text with no run is stated as not run, never as accepted.
+
+[DISPOSITION.md](DISPOSITION.md) records which repositories are archived.
+
 ## Change log
 
+- v1.2.0 (2026-11-26, KST): the section From 26 November 2026. Scheduled testing ends; a status is the last test; an archived instrument is not run again; a maintained instrument changes only with a run logged that day. Conditions (a) to (g) and the statuses are unchanged. On Michael Paik's ruling of 26 November 2026; prepared with Claude, approved by Michael Paik.
 - v1.1.0 (2026-11-16, KST): the section Evaluations and the Human reviewer, and condition (e) names the reviewer's overruling of a scorer that misread its rule, with the reason recorded and the scorer's verdict kept. On Michael Paik's request and ruling K of 16 November 2026, made on the runs of RedCap-01 v1.3.0 and origami-method v1.6.0; prepared with Claude, approved by Michael Paik. Conditions (a) to (d), (f) and (g) and the statuses are unchanged.
 - v1.0.1 (2026-10-27, KST): the heading reads "ACCEPTANCE" in place of "ACCEPTANCE.md", edited by Michael Paik on GitHub (commit `1411171`); this entry and the masthead were added afterwards, in profile v2.1.5. No rule changed.
 - v1.0.0 (2026-10-26, KST): created in train A of the whole-account review of 24 October 2026; prepared with Claude, approved by Michael Paik.

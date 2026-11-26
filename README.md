@@ -1,16 +1,20 @@
 # Enterprise AI governance, risk management and compliance
 
-**v2.4.11 · 26 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
+**v2.5.0 · 26 November 2026 (KST)** · the version of this profile, [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) and [CITATION.cff](https://github.com/rolldabones/rolldabones/blob/main/CITATION.cff), which move together.
 
 This account publishes the doctrines, methods, instruments and teaching materials of one practice, enterprise AI governance, risk management and compliance (GRC) that is evidence-led and auditable, across twenty-two content repositories mapped in [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md).
 
+**I am taking the Thanksgiving weekend of 26 to 29 November 2026 to put this account in order.** Of its twenty-three repositories two are developed, eight are maintained and thirteen are being archived as dated editions, which stay readable and citable and receive no corrections. [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md) says which is which, since when and why.
+
 ## Start here
 
-Three reader paths, each three links deep.
+Three reader paths, each three links deep, through repositories that are developed or maintained.
 
-- **Board or executive:** [AI Governance for Boards: Handbook](https://github.com/rolldabones/ai-governance-for-boards/blob/main/handbook.md) → [Slow AI for the Chief Legal Officer](https://github.com/rolldabones/AI-Governance-Academy/blob/main/slow-ai-for-the-chief-legal-officer.md) → [RedCap-00](https://github.com/rolldabones/RedCap-00), the 72-hour operational-optionality self-check.
-- **Practitioner:** [The Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) → [Slow AI Cookbook](https://github.com/rolldabones/slow-ai-kitchen/blob/main/slow-ai-cookbook.md) → [The Definition of Done](https://github.com/rolldabones/definition-of-done).
-- **Builder:** [Computational Drafting](https://github.com/rolldabones/computational-drafting) → [The Origami Method](https://github.com/rolldabones/origami-method) → [GRCnext-Copilot: Start here](https://github.com/rolldabones/GRCnext-Copilot/blob/main/START-HERE.md).
+- **Board or executive:** [AI Governance for Boards: Handbook](https://github.com/rolldabones/ai-governance-for-boards/blob/main/handbook.md) → [Slow AI for the Chief Legal Officer](https://github.com/rolldabones/AI-Governance-Academy/blob/main/slow-ai-for-the-chief-legal-officer.md) → [*Final Liability Rests with the Human*: Board Reading Guide](https://github.com/rolldabones/AI-Governance-Academy/blob/main/board-reading-guide.md).
+- **Practitioner:** [The Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) → [Slow AI Cookbook](https://github.com/rolldabones/slow-ai-kitchen/blob/main/slow-ai-cookbook.md) → [The GRC Workbook](https://github.com/rolldabones/grc-workbook).
+- **Builder:** [Computational Drafting](https://github.com/rolldabones/computational-drafting) → [Enterprise AI Architecture Primer](https://github.com/rolldabones/slow-ai-kitchen/blob/main/enterprise-ai-architecture-primer.md) → [GRCnext-Copilot: Start here](https://github.com/rolldabones/GRCnext-Copilot/blob/main/START-HERE.md).
+
+The archived editions, RedCap-00, The Definition of Done and The Origami Method among them, are listed in [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md).
 
 ## Doctrines
 
@@ -31,20 +35,20 @@ One ladder, shared with the [AI Governance Academy](https://github.com/rolldabon
 | 2 hours | Executive Briefing | [AI-Governance-Academy, template 02](https://github.com/rolldabones/AI-Governance-Academy/blob/main/02-executive-briefing.md) | US$3,000 |
 | Half day | Executive Workshop, half day (executive leadership) | none published | by proposal |
 | 1 day | Executive Workshop (executive leadership) | [AI-Governance-Academy, template 03](https://github.com/rolldabones/AI-Governance-Academy/blob/main/03-executive-workshop.md) | US$7,500 |
-| 1 day | The AI Generalist (working professionals) | [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | by proposal |
+| 1 day | The AI Generalist (working professionals) | [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist), an archived edition brought current for each engagement | by proposal |
 | 2 days | Practitioner Academy (the Slow AI Kitchen workshop is Day 2) | [AI-Governance-Academy, template 04](https://github.com/rolldabones/AI-Governance-Academy/blob/main/04-practitioner-academy.md) | US$12,500 |
 | 5 days | Implementation Accelerator | [AI-Governance-Academy, template 05](https://github.com/rolldabones/AI-Governance-Academy/blob/main/05-implementation-accelerator.md) | US$25,000 |
 | 30 days | One Workflow, Thirty Days (the Consultant Workbook engagement) | [slow-ai-kitchen/consultant-workbook.md](https://github.com/rolldabones/slow-ai-kitchen/blob/main/consultant-workbook.md); [AI-Governance-Academy, template 08](https://github.com/rolldabones/AI-Governance-Academy/blob/main/08-one-workflow-thirty-days.md) | by proposal |
 | 12 weeks | Guided AI GRC Build | [AI-Governance-Academy, template 06](https://github.com/rolldabones/AI-Governance-Academy/blob/main/06-guided-ai-grc-build.md) | US$60,000 |
 | 12 months | Fractional AI Governance Advisor | [AI-Governance-Academy, template 07](https://github.com/rolldabones/AI-Governance-Academy/blob/main/07-fractional-advisor.md) | US$10,000 per month |
 
-GRCnext™: [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot) and [RedCap-00](https://github.com/rolldabones/RedCap-00) are public and free; GRCnext™ advisory is on inquiry.
+GRCnext™: [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot) is public, free and maintained; [RedCap-00](https://github.com/rolldabones/RedCap-00) is public and free as an archived edition; GRCnext™ advisory is on inquiry.
 
 An engagement on this ladder licenses the Client to use the materials it delivers in the Client's own operations, on the terms of the engagement agreement; any other commercial use is set out in [LICENSING.md](https://github.com/rolldabones/rolldabones/blob/main/LICENSING.md).
 
 ## Definitions
 
-**Spellbooks** are the reusable AI workflows, prompts and working habits that get real work done and keep it operable and maintainable (the term the [AI GRC Copilot](https://github.com/rolldabones/AI-GRC-Copilot) repository uses). **Tiny Servants** are narrow AI services with one purpose, clear boundaries and a named owner, which do one useful task well and then stop (first public use in [*Made to Hold*](https://redcaps.substack.com/p/made-to-hold), 28 July 2026).
+**Spellbooks** are the reusable AI workflows, prompts and working habits that get real work done and keep it operable and maintainable (the term the archived [AI GRC Copilot](https://github.com/rolldabones/AI-GRC-Copilot) repository uses). **Tiny Servants** are narrow AI services with one purpose, clear boundaries and a named owner, which do one useful task well and then stop (first public use in [*Made to Hold*](https://redcaps.substack.com/p/made-to-hold), 28 July 2026).
 
 ## About the author
 
@@ -54,7 +58,7 @@ This account publishes the AI workflows (the Spellbooks), Tiny Servants and fram
 
 The custom GPTs this account once published were retired on 1 October 2026; [RETIREMENT.md](https://github.com/rolldabones/rolldabones/blob/main/RETIREMENT.md) records the retirement once, and the instructions published in each repository are the text of record.
 
-A user's guide to this account, *The Handover*, is at https://redcaps.substack.com/p/the-handover.
+A user's guide to this account, *The Handover*, is at https://redcaps.substack.com/p/the-handover. It describes the account as it stood in August 2026; [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md) records what has changed since.
 
 The Slow AI Kitchen repository runs as a guided web application at https://kitchen.grcskorea.com/, in English, Korean, Vietnamese and Japanese; the application states the Kitchen release its text follows, and the repository is the text of record.
 
@@ -74,7 +78,7 @@ This profile repository is licensed under CC BY-NC-SA 4.0 ([LICENSE.md](LICENSE.
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.4.11. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
+> Paik, Son-U Michael. *The rolldabones governance ecosystem and doctrine canon*, v2.5.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/rolldabones
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
