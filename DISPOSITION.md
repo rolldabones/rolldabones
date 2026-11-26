@@ -40,7 +40,7 @@ Nothing was deleted, merged, renamed or moved, so every link into this account r
 | [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Archived | | A prompt instrument must be tested again on every model change, and I will not do that for this one | Everything, at its final release |
 | [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Archived | | The same | Everything, at its final release |
 | [RedCap-00](https://github.com/rolldabones/RedCap-00) | Archived | | The same | Everything, at its final release |
-| [RedCap-01](https://github.com/rolldabones/RedCap-01) | Archived | | The same | Everything, at its final release |
+| [RedCap-01](https://github.com/rolldabones/RedCap-01) | Archived | 26 November 2026, at v1.3.1 | The same | Everything, at its final release |
 | [master-prompt-for-in-house-legal-and-compliance](https://github.com/rolldabones/master-prompt-for-in-house-legal-and-compliance) | Archived | | The same, for both of its prompts | Everything, at its final release |
 | [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | Archived | | The same | Everything, at its final release |
 | [AI-GRC-Master-List-of-Questions](https://github.com/rolldabones/AI-GRC-Master-List-of-Questions) | Archived | | The input set of AI-GRC-Copilot, archived with it | Everything, at its final release |

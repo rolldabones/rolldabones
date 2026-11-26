@@ -1,6 +1,6 @@
 # ECOSYSTEM.md
 
-**The rolldabones governance ecosystem · v2.5.0 · 26 November 2026 (Korea Standard Time, KST)**
+**The rolldabones governance ecosystem · v2.5.1 · 26 November 2026 (Korea Standard Time, KST)**
 
 **This is the single canonical map. Every other repository links here from a short "Part of the ecosystem" section rather than duplicating this content. One map, many pointers: duplicated maps drift.**
 
@@ -142,6 +142,6 @@ The Substack essay run closed on 28 August 2026 with *The Handover*. This list i
 
 ## Current state
 
-**As at v2.5.0 (26 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository: two developed, eight maintained with this profile among them, and thirteen archived as dated editions over the weekend of 26 to 29 November 2026, as [DISPOSITION.md](DISPOSITION.md) records. [DOCTRINE.md](DOCTRINE.md), at v1.2.6, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
+**As at v2.5.1 (26 November 2026, KST).** Twenty-two content repositories in four layers plus this profile repository: two developed, eight maintained with this profile among them, and thirteen archived as dated editions over the weekend of 26 to 29 November 2026, as [DISPOSITION.md](DISPOSITION.md) records. [DOCTRINE.md](DOCTRINE.md), at v1.2.6, states the three doctrines and the section 8 short forms; [RETIREMENT.md](RETIREMENT.md) records the retirement of the seven custom GPTs; [ACCEPTANCE.md](ACCEPTANCE.md) states when an instrument is accepted; [LICENSING.md](LICENSING.md) states the commercial route once; this file, the profile README and CITATION.cff move together under protocol item 5. Every change to them is logged in [HISTORY.md](HISTORY.md), newest first.
 
 Final Liability rests with the Human.
