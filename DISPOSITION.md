@@ -18,7 +18,7 @@ Every repository in this account is in one of three tiers from 26 November 2026 
 
 Nothing was deleted, merged, renamed or moved, so every link into this account resolves as it did. Each license still applies, and [LICENSING.md](LICENSING.md) still covers every repository. Each archived repository opens with a banner that gives its edition date and the version to cite.
 
-**This file is true as it stands.** The archiving is done over the weekend, one repository at a time. A row whose "Archived on" cell is empty is a repository not yet archived; the cell is filled in when it is.
+**This file is true as it stands.** All thirteen repositories were archived on 26 November 2026, each at the version its row names. The rest of the weekend's work is in the repositories that stay.
 
 ## The twenty-three repositories
 
@@ -34,19 +34,19 @@ Nothing was deleted, merged, renamed or moved, so every link into this account r
 | [computational-drafting](https://github.com/rolldabones/computational-drafting) | Maintained | | The drafting discipline, complete as written and corrected if wrong | Nothing |
 | [the-ungoverned-channel](https://github.com/rolldabones/the-ungoverned-channel) | Maintained | | A living case study, re-run when the product it studies reaches general availability | Nothing |
 | [GRCnext-Copilot](https://github.com/rolldabones/GRCnext-Copilot) | Maintained | | The GRCnext™ method | Its prompts, at their last test |
-| [definition-of-done](https://github.com/rolldabones/definition-of-done) | Archived | | Doctrine, complete as written | Everything, at its final release |
-| [grc](https://github.com/rolldabones/grc) | Archived | | The method on the OCEG model, complete as written; the quarterly scoring of FOUR-FRAMES.md stops with it | Everything, at its final release |
-| [origami-method](https://github.com/rolldabones/origami-method) | Archived | | The method is complete as written; its instrument will not be tested again | Everything, at its final release |
-| [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Archived | | A prompt instrument must be tested again on every model change, and I will not do that for this one | Everything, at its final release |
-| [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Archived | | The same | Everything, at its final release |
-| [RedCap-00](https://github.com/rolldabones/RedCap-00) | Archived | | The same | Everything, at its final release |
+| [definition-of-done](https://github.com/rolldabones/definition-of-done) | Archived | 26 November 2026, at v1.4.3 | Doctrine, complete as written | Everything, at its final release |
+| [grc](https://github.com/rolldabones/grc) | Archived | 26 November 2026, at v2.4.4 | The method on the OCEG model, complete as written; the quarterly scoring of FOUR-FRAMES.md stops with it | Everything, at its final release |
+| [origami-method](https://github.com/rolldabones/origami-method) | Archived | 26 November 2026, at v1.6.2 | The method is complete as written; its instrument will not be tested again | Everything, at its final release |
+| [AI-Impact-Assessment-Tool](https://github.com/rolldabones/AI-Impact-Assessment-Tool) | Archived | 26 November 2026, at v1.6.2 | A prompt instrument must be tested again on every model change, and I will not do that for this one | Everything, at its final release |
+| [risk-informed-decision-making-prompt](https://github.com/rolldabones/risk-informed-decision-making-prompt) | Archived | 26 November 2026, at v1.10.2 | The same | Everything, at its final release |
+| [RedCap-00](https://github.com/rolldabones/RedCap-00) | Archived | 26 November 2026, at v1.3.3 | The same | Everything, at its final release |
 | [RedCap-01](https://github.com/rolldabones/RedCap-01) | Archived | 26 November 2026, at v1.3.1 | The same | Everything, at its final release |
-| [master-prompt-for-in-house-legal-and-compliance](https://github.com/rolldabones/master-prompt-for-in-house-legal-and-compliance) | Archived | | The same, for both of its prompts | Everything, at its final release |
-| [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | Archived | | The same | Everything, at its final release |
-| [AI-GRC-Master-List-of-Questions](https://github.com/rolldabones/AI-GRC-Master-List-of-Questions) | Archived | | The input set of AI-GRC-Copilot, archived with it | Everything, at its final release |
-| [Contract-Mechanism-Review-Assistant](https://github.com/rolldabones/Contract-Mechanism-Review-Assistant) | Archived | | The same as the other prompt instruments | Everything, at its final release |
-| [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | Archived | | A one-day workshop that I bring current for each engagement, not in public | Everything, at its final release |
-| [AI-Governance-Academy-ko-wip](https://github.com/rolldabones/AI-Governance-Academy-ko-wip) | Archived | | I am limiting Korean to the book; this draft never had my line review | Everything, at its final release |
+| [master-prompt-for-in-house-legal-and-compliance](https://github.com/rolldabones/master-prompt-for-in-house-legal-and-compliance) | Archived | 26 November 2026, at v2.6.3 | The same, for both of its prompts | Everything, at its final release |
+| [AI-GRC-Copilot](https://github.com/rolldabones/AI-GRC-Copilot) | Archived | 26 November 2026, at v1.2.8 | The same | Everything, at its final release |
+| [AI-GRC-Master-List-of-Questions](https://github.com/rolldabones/AI-GRC-Master-List-of-Questions) | Archived | 26 November 2026, at v1.2.8 | The input set of AI-GRC-Copilot, archived with it | Everything, at its final release |
+| [Contract-Mechanism-Review-Assistant](https://github.com/rolldabones/Contract-Mechanism-Review-Assistant) | Archived | 26 November 2026, at v1.5.1 | The same as the other prompt instruments | Everything, at its final release |
+| [the-ai-generalist](https://github.com/rolldabones/the-ai-generalist) | Archived | 26 November 2026, at v2.1.1 | A one-day workshop that I bring current for each engagement, not in public | Everything, at its final release |
+| [AI-Governance-Academy-ko-wip](https://github.com/rolldabones/AI-Governance-Academy-ko-wip) | Archived | 26 November 2026, at v0.2.2 | I am limiting Korean to the book; this draft never had my line review | Everything, at its final release |
 
 ## The instruments
 
