@@ -4,7 +4,7 @@
 
 **This file, beside [ECOSYSTEM.md](ECOSYSTEM.md), [DOCTRINE.md](DOCTRINE.md) and [RETIREMENT.md](RETIREMENT.md), records once which repositories are developed, which are maintained and which are archived as dated editions, so that each archived repository carries one banner and a link here instead of an explanation of its own.**
 
-> I am taking the Thanksgiving weekend of 26 to 29 November 2026 to put this account in order: to keep what I will maintain and to archive the rest as dated editions. Thank you to everyone who has read this work and sent feedback, on LinkedIn, on GitHub and otherwise. It shaped what stays.
+> On Thanksgiving Day, 26 November 2026, I put this account in order: I kept what I will maintain and archived the rest as dated editions. Thank you to everyone who has read this work and sent feedback, on LinkedIn, on GitHub and otherwise. It shaped what stays.
 
 One person cannot keep twenty-three repositories correct. A repository that looks maintained and is not misleads its reader, and one that says plainly that it has stopped does not.
 
@@ -18,7 +18,7 @@ Every repository in this account is in one of three tiers from 26 November 2026 
 
 Nothing was deleted, merged, renamed or moved, so every link into this account resolves as it did. Each license still applies, and [LICENSING.md](LICENSING.md) still covers every repository. Each archived repository opens with a banner that gives its edition date and the version to cite.
 
-**This file is true as it stands.** All thirteen repositories were archived on 26 November 2026, each at the version its row names. The rest of the weekend's work is in the repositories that stay.
+**This file is true as it stands.** All thirteen repositories were archived on 26 November 2026, each at the version its row names. The work in the repositories that stay was finished the same day: each labels the archived editions it points to, and the files inside them that are dated editions say so.
 
 ## The twenty-three repositories
 
